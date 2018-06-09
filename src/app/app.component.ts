@@ -7,6 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  isAuthorised = false;
+
+loginFunction(event){
+	this.isAuthorised = true;
+}
 
 	// Dummy content. It will be replaced soon by feed from a file (people.json)
   people = [
