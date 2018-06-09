@@ -2,44 +2,51 @@
 <span *ngIf =" isAuthorised; then loggedin else notloggedin">Authenticating... </span>
 
 <ng-template #notloggedin>
-  <div class="container">
-  	<div class="card">
-  		<small>Just login... doesn't matter what you'll type ;)</small>
-	    <label for="uname"><b>Username</b></label>
-	    <input type="text" placeholder="Enter Username" name="uname" required>
+  <div class="formContainer">
+  	<h2>Frygja</h2>
+  	<p>A free Angular admin template!</p>
+	<small>Just login... doesn't matter what you'll type ;)</small>
+  	<div class="loginForm">
+  		<div class="form-group">
+		    <label for="uname"><b>Username</b></label>
+		    <input type="text" placeholder="Enter Username" name="uname" required>
+		</div>
+		<div class="form-group">
+		    <label for="psw"><b>Password</b></label>
+		    <input type="password" placeholder="Enter Password" name="psw" required>
+		</div>
 
-	    <label for="psw"><b>Password</b></label>
-	    <input type="password" placeholder="Enter Password" name="psw" required>
-
-	    <button (click)="loginFunction($event)" type="submit">Login</button>
+	    <button class="btn btn-info" (click)="loginFunction($event)" type="submit">Login</button>
 	</div>
   </div>
 </ng-template>
 
 <ng-template #loggedin>
-	<app-header></app-header>
-	<app-navigation></app-navigation>
+	<div class="mainContainer">	
+		<app-header></app-header>
+		<app-navigation></app-navigation>
 
-	<table class="table table-striped">
-		<tr>
-			<th scope="col">#</th>
-			<th>First Name</th>
-			<th>Last Name</th>
-			<th>Company</th>
-			<th>Age</th>
-			<th>Email</th>
-			<th>Balance</th>
-			<th>Active</th>
-		</tr>
-		<tr *ngFor = "let person of people">
-			<td>{{person.index+1}}</td>
-			<td>{{person.name.first}}</td>
-			<td>{{person.name.last}}</td>
-			<td>{{person.company}}</td>
-			<td>{{person.age}}</td>
-			<td>{{person.email}}</td>
-			<td>{{person.balance}}</td>
-			<td>{{person.isActive}}</td>		
-		</tr>
-	</table>
+		<table class="table table-striped">
+			<tr>
+				<th scope="col">#</th>
+				<th>First Name</th>
+				<th>Last Name</th>
+				<th>Company</th>
+				<th>Age</th>
+				<th>Email</th>
+				<th>Balance</th>
+				<th>Active</th>
+			</tr>
+			<tr *ngFor = "let person of people">
+				<td>{{person.index+1}}</td>
+				<td>{{person.name.first}}</td>
+				<td>{{person.name.last}}</td>
+				<td>{{person.company}}</td>
+				<td>{{person.age}}</td>
+				<td>{{person.email}}</td>
+				<td>{{person.balance}}</td>
+				<td>{{person.isActive}}</td>		
+			</tr>
+		</table>
+	</div>
 </ng-template>
