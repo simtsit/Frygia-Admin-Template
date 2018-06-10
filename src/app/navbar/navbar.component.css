@@ -1,0 +1,10 @@
+.navbarOptions {
+	display: flex;
+	flex-direction: row;
+	margin-left: auto;
+	list-style: none;
+	line-height: 34px;
+}
+.navbarOptions li{
+	padding-left: 10px;
+}
