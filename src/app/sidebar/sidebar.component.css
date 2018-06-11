@@ -1,16 +1,25 @@
 .sidebarWrapper {
-	z-index: 1000;
-	position: absolute;
-	left: 250px;
-	width: 170px;
-	height: 100%;
-	margin-left: -250px;
-	overflow-y: auto;
-	background: #000;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    /*top: 0;*/
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidebarWrapper a {
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+
+.sidebarWrapper a:hover {
+	color: #010101;
 }
 
 
