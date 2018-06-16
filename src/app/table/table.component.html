@@ -1,0 +1,22 @@
+<table class="table table-striped">
+	<tr>
+		<th scope="col">#</th>
+		<th>First Name</th>
+		<th>Last Name</th>
+		<th>Company</th>
+		<th>Age</th>
+		<th>Email</th>
+		<th>Balance</th>
+		<th>Active</th>
+	</tr>
+	<tr *ngFor = "let person of people">
+		<td>{{person.index+1}}</td>
+		<td>{{person.name.first}}</td>
+		<td>{{person.name.last}}</td>
+		<td>{{person.company}}</td>
+		<td>{{person.age}}</td>
+		<td>{{person.email}}</td>
+		<td>{{person.balance}}</td>
+		<td>{{person.isActive}}</td>		
+	</tr>
+</table>
