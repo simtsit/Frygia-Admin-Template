@@ -1,17 +1,26 @@
 .sidebarWrapper {
-    height: 100%;
-    width: 200px;
-    position: fixed;
-    z-index: 1;
-    /*top: 0;*/
-    left: 0;
-    background-color: #111;
-    overflow-x: hidden;
-    padding-top: 20px;
+      z-index: 1000;
+  position: fixed;
+  left: 250px;
+  width: 250px;
+  height: 100%;
+  margin-left: -250px;
+  overflow-y: auto;
+  background: #000;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
 }
 
+ul.sidebarOptions {
+    padding-left: 0px;
+}
+
+
 .sidebarWrapper a {
-    padding: 6px 6px 6px 32px;
+    padding: 0px 0px 4px 14px;
+    border: 1px solid blue;
     text-decoration: none;
     font-size: 25px;
     color: #818181;
@@ -19,7 +28,7 @@
 }
 
 .sidebarWrapper a:hover {
-	color: #010101;
+	background-color: #010101;
 }
 
 
@@ -27,3 +36,9 @@
 	color: #ffffff;
 	list-style: none;
 }
+
+
+
+
+
+

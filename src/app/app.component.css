@@ -1,15 +1,22 @@
 .mainContainer {
-	/*position: relative;/*
+	position: relative;
 	background-color: white !important;
-	/*left: 170px;*/
-	/*width: 100%;*/
+	width: 100%;
+    margin-left: 250px;   /* Same as the width of the sidenav */
     
-    /*transition: margin-left .5s;
+   /* transition: margin-left .5s;
     padding: 16px;*/
 
-    margin-left: 200px; /* Same as the width of the sidenav */
+
+
+/*  width: 100%;
+  position: absolute;
+  padding: 15px;
+  margin-right: -250px;*/
 }
 
 .loginCard {
 	max-width: 400px;
 }
+
+
