@@ -8,3 +8,11 @@
 .navbarOptions li{
 	padding-left: 10px;
 }
+
+.logo {
+	padding: 0px 0px 4px 14px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #e4e4e4;
+    display: block;
+}

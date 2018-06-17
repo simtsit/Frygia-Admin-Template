@@ -2,10 +2,9 @@
 	position: relative;
 	background-color: white !important;
     margin-left: 250px; 
+    /*padding: 30px;*/
 }
 
 .loginCard {
 	max-width: 400px;
 }
-
-
