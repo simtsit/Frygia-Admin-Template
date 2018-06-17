@@ -1,18 +1,7 @@
 .mainContainer {
 	position: relative;
 	background-color: white !important;
-	width: 100%;
-    margin-left: 250px;   /* Same as the width of the sidenav */
-    
-   /* transition: margin-left .5s;
-    padding: 16px;*/
-
-
-
-/*  width: 100%;
-  position: absolute;
-  padding: 15px;
-  margin-right: -250px;*/
+    margin-left: 250px; 
 }
 
 .loginCard {
