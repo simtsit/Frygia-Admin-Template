@@ -5,15 +5,18 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './piechartsimple.component.html',
   styleUrls: ['./piechartsimple.component.css']
 })
+
 export class PiechartsimpleComponent implements OnInit {
 
-	google.charts;
-
   constructor() {
-	google.charts.load('current', {'packages':['corechart']});
+
+   }
+
+  ngOnInit() {
+  	google.charts.load('current', {'packages':['corechart']});
 	google.charts.setOnLoadCallback(drawChart);
 
-	function drawChart() {
+		function drawChart() {
 
 	var data = google.visualization.arrayToDataTable([
 	  ['Task', 'Hours per Day'],
@@ -32,9 +35,6 @@ export class PiechartsimpleComponent implements OnInit {
 
 	chart.draw(data, options);
 	}
-   }
-
-  ngOnInit() {
   }
 
 }

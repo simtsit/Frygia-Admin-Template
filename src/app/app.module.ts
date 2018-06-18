@@ -11,6 +11,7 @@ import { CardsComponent } from './cards/cards.component';
 
 import { PeopleService } from './people.service';
 import { PiechartsimpleComponent } from './piechartsimple/piechartsimple.component';
+import { BarchartsimpleComponent } from './barchartsimple/barchartsimple.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { PiechartsimpleComponent } from './piechartsimple/piechartsimple.compone
     TableComponent,
     CardsComponent,
     DashboardComponent,
-    PiechartsimpleComponent
+    PiechartsimpleComponent,
+    BarchartsimpleComponent
   ],
   imports: [
     BrowserModule
