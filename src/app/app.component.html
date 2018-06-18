@@ -1,8 +1,9 @@
 
 <span *ngIf =" isAuthorised; then loggedin else notloggedin">Authenticating... </span>
 
+
+<!-- If the user is not logged in, display log-in page -->
 <ng-template #notloggedin>
-  <!-- <div class="formContainer"> -->
   	<div class="loginContainer">
 	  	<div class="card loginCard mx-auto mt-5">
 	  	<div class="card-header">Login</div>
@@ -24,12 +25,12 @@
   </div>
 </ng-template>
 
+
+<!-- If the user is logged in, display the app -->
 <ng-template #loggedin>
 		<app-navbar></app-navbar>
 		<app-sidebar></app-sidebar>
 		<div class="container">
-			<div class="mainContainer">	
-				<app-dashboard></app-dashboard>
-			</div>
+			<app-dashboard></app-dashboard>
 		</div>
 </ng-template>

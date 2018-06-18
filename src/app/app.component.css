@@ -1,8 +1,7 @@
-.mainContainer {
-	position: relative;
-	background-color: white !important;
-    margin-left: 250px; 
-    /*padding: 30px;*/
+.container {
+    margin-left: 240px;
+    width: auto;
+    max-width: 100%;
 }
 
 .loginCard {
