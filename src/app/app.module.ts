@@ -10,6 +10,7 @@ import { TableComponent } from './table/table.component';
 import { CardsComponent } from './cards/cards.component';
 
 import { PeopleService } from './people.service';
+import { PiechartsimpleComponent } from './piechartsimple/piechartsimple.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { PeopleService } from './people.service';
     NavbarComponent,
     TableComponent,
     CardsComponent,
-    DashboardComponent
+    DashboardComponent,
+    PiechartsimpleComponent
   ],
   imports: [
     BrowserModule

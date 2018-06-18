@@ -1,0 +1,6 @@
+.chart {
+	width: auto;
+	max-width: auto;
+	/*min-height: 300px;*/
+	border:1px solid gray;
+}
