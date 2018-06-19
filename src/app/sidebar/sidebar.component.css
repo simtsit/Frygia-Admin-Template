@@ -1,3 +1,13 @@
+.logo {
+    padding: 4px 0px 12px 16px;
+    text-decoration: none;
+    font-size: 28px;
+    color: #e4e4e4;
+    line-height: 1.7em;
+    border-bottom: 1px solid gray;
+}
+
+
 .sidebarWrapper {
   z-index: 1000;
   position: fixed;
@@ -38,3 +48,5 @@ ul.sidebarOptions {
 	color: #ffffff;
 	list-style: none;
 }
+
+

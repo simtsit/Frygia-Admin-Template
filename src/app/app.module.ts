@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 
 // Element Components
 import { SidebarComponent } from './sidebar/sidebar.component';
-import { NavbarComponent } from './navbar/navbar.component';
+// import { NavbarComponent } from './navbar/navbar.component';
 
 // Sidebar Nav Major Components
 import { DashboardComponent } from './dashboard/dashboard.component';
@@ -26,7 +26,7 @@ import { PeopleService } from './people.service';
   declarations: [
     AppComponent,
     SidebarComponent,
-    NavbarComponent,
+    // NavbarComponent,
     TableComponent,
     CardsComponent,
     DashboardComponent,
