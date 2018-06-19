@@ -1,17 +1,26 @@
+// Modules
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { RouterModule} from '@angular/router';
 
-import { DashboardComponent } from './dashboard/dashboard.component';
-
+// Main App Component
 import { AppComponent } from './app.component';
+
+// Element Components
 import { SidebarComponent } from './sidebar/sidebar.component';
 import { NavbarComponent } from './navbar/navbar.component';
-import { TableComponent } from './table/table.component';
-import { CardsComponent } from './cards/cards.component';
 
-import { PeopleService } from './people.service';
+// Sidebar Nav Major Components
+import { DashboardComponent } from './dashboard/dashboard.component';
+import { TableComponent } from './table/table.component';
+
+// Lesser Components
+import { CardsComponent } from './cards/cards.component';
 import { PiechartsimpleComponent } from './piechartsimple/piechartsimple.component';
 import { BarchartsimpleComponent } from './barchartsimple/barchartsimple.component';
+
+// Services
+import { PeopleService } from './people.service';
 
 @NgModule({
   declarations: [
@@ -25,7 +34,17 @@ import { BarchartsimpleComponent } from './barchartsimple/barchartsimple.compone
     BarchartsimpleComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    RouterModule.forRoot([
+         {
+            path: 'dashboard',
+            component: DashboardComponent
+         },
+         {
+            path: 'table',
+            component: TableComponent
+         }         
+      ])
   ],
   providers: [PeopleService],
   bootstrap: [AppComponent]
