@@ -8,6 +8,9 @@ import { PeopleService } from './../people.service';
   styleUrls: ['./table.component.css']
 })
 export class TableComponent implements OnInit {
+  pageData = {
+  		"h1title": "Table"
+  	};
 
   // peopleData;
   
