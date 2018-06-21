@@ -22,6 +22,7 @@ import { BarchartsimpleComponent } from './barchartsimple/barchartsimple.compone
 // Services
 import { PeopleService } from './people.service';
 import { CalendarComponent } from './calendar/calendar.component';
+import { GeoChartComponent } from './geo-chart/geo-chart.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import { CalendarComponent } from './calendar/calendar.component';
     DashboardComponent,
     PiechartsimpleComponent,
     BarchartsimpleComponent,
-    CalendarComponent
+    CalendarComponent,
+    GeoChartComponent
   ],
   imports: [
     BrowserModule,
