@@ -21,6 +21,7 @@ import { BarchartsimpleComponent } from './barchartsimple/barchartsimple.compone
 
 // Services
 import { PeopleService } from './people.service';
+import { CalendarComponent } from './calendar/calendar.component';
 
 @NgModule({
   declarations: [
@@ -31,11 +32,16 @@ import { PeopleService } from './people.service';
     CardsComponent,
     DashboardComponent,
     PiechartsimpleComponent,
-    BarchartsimpleComponent
+    BarchartsimpleComponent,
+    CalendarComponent
   ],
   imports: [
     BrowserModule,
     RouterModule.forRoot([
+         {
+            path: '',
+            component: DashboardComponent
+         },
          {
             path: 'dashboard',
             component: DashboardComponent
@@ -43,7 +49,11 @@ import { PeopleService } from './people.service';
          {
             path: 'table',
             component: TableComponent
-         }         
+         },
+         {
+            path: 'calendar',
+            component: CalendarComponent
+         }            
       ])
   ],
   providers: [PeopleService],
