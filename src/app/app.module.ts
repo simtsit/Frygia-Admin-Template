@@ -23,6 +23,8 @@ import { BarchartsimpleComponent } from './barchartsimple/barchartsimple.compone
 import { PeopleService } from './people.service';
 import { CalendarComponent } from './calendar/calendar.component';
 import { GeoChartComponent } from './geo-chart/geo-chart.component';
+import { MappageComponent } from './mappage/mappage.component';
+import { MapglobalComponent } from './mapglobal/mapglobal.component';
 
 @NgModule({
   declarations: [
@@ -35,7 +37,9 @@ import { GeoChartComponent } from './geo-chart/geo-chart.component';
     PiechartsimpleComponent,
     BarchartsimpleComponent,
     CalendarComponent,
-    GeoChartComponent
+    GeoChartComponent,
+    MappageComponent,
+    MapglobalComponent
   ],
   imports: [
     BrowserModule,
@@ -55,7 +59,11 @@ import { GeoChartComponent } from './geo-chart/geo-chart.component';
          {
             path: 'calendar',
             component: CalendarComponent
-         }            
+         },
+         {
+            path: 'map',
+            component: MappageComponent
+         }          
       ])
   ],
   providers: [PeopleService],
