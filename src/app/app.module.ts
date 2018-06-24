@@ -7,24 +7,24 @@ import { RouterModule} from '@angular/router';
 import { AppComponent } from './app.component';
 
 // Element Components
-import { SidebarComponent } from './sidebar/sidebar.component';
-// import { NavbarComponent } from './navbar/navbar.component';
-
-// Sidebar Nav Major Components
-import { DashboardComponent } from './dashboard/dashboard.component';
-import { TableComponent } from './table/table.component';
-
-// Lesser Components
-import { CardsComponent } from './cards/cards.component';
-import { PiechartsimpleComponent } from './piechartsimple/piechartsimple.component';
-import { BarchartsimpleComponent } from './barchartsimple/barchartsimple.component';
+import { SidebarComponent } from './elements/sidebar/sidebar.component';
+// import { NavbarComponent } from './elements/navbar/navbar.component';
 
 // Services
 import { PeopleService } from './people.service';
-import { CalendarComponent } from './calendar/calendar.component';
-import { GeoChartComponent } from './geo-chart/geo-chart.component';
-import { MappageComponent } from './mappage/mappage.component';
-import { MapglobalComponent } from './mapglobal/mapglobal.component';
+
+// Page Components
+import { DashboardComponent } from './pages/dashboard/dashboard.component';
+import { TableComponent } from './pages/table/table.component';
+import { MappageComponent } from './pages/mappage/mappage.component';
+import { CalendarComponent } from './pages/calendar/calendar.component';
+
+// Various Components
+import { CardsComponent } from './various/cards/cards.component';
+import { PiechartsimpleComponent } from './various/piechartsimple/piechartsimple.component';
+import { BarchartsimpleComponent } from './various/barchartsimple/barchartsimple.component';
+import { GeoChartComponent } from './various/geo-chart/geo-chart.component';
+import { MapglobalComponent } from './various/mapglobal/mapglobal.component';
 
 @NgModule({
   declarations: [
