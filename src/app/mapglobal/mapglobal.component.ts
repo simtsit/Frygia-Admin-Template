@@ -9,8 +9,6 @@ export class MapglobalComponent implements OnInit {
 
   constructor() { }
 
-google;
-
   ngOnInit() {
   	
 		function myMap() {
