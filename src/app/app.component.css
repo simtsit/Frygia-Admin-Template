@@ -1,5 +1,5 @@
 .container {
-    margin-left: 240px;
+    margin-left: 250px;
     width: auto;
     max-width: 100%;
 }
@@ -10,6 +10,7 @@
 
 
 
+
 /*Extra small devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap*/
 
@@ -17,7 +18,12 @@ No media query since this is the default in Bootstrap*/
 /*@media (min-width: 576px) { .container { background-color: red; } }*/
 
  /*Medium devices (tablets, 768px and up)*/
-/*@media (min-width: 768px) { .container { background-color: green; } }*/
+@media (max-width: 768px) { 
+	.container { 
+		/*background-color: green; */
+		margin-left: 0px;
+		} 
+}
 
 /*Large devices (desktops, 992px and up)*/
 /*@media (min-width: 992px) { .container { background-color: blue; } }*/
