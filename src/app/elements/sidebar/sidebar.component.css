@@ -69,5 +69,32 @@ ul.sidebarOptions {
     .mobileNav {
         visibility: visible;
         display: block;
+        color: #e4e4e4;
+        line-height: 1.7em;        
+    }
+
+    .mobLogo {
+        padding: 18px 0px 12px 16px;
+        text-decoration: none;
+        font-size: 28px;
+        float: left;
+    }
+
+    .mobNavIcon {
+        float: right;
+        padding: 10px;
+        border: 1px solid white;
+        margin-right:8px;
+        margin-top: 4px;
+        border-radius: 4px;
+    }
+
+    .mobNavIcon a {
+        color: #e4e4e4;
+        text-decoration: none;
+    }
+
+    ul.dropdown-menu.show {
+        background: #af4f0b;
     }
 }
