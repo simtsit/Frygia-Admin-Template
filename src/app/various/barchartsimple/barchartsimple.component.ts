@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BarchartsimpleComponent implements OnInit {
 
+google;
+
   constructor() {
   }
 
@@ -27,6 +29,7 @@ export class BarchartsimpleComponent implements OnInit {
 
 	      var options = {
 	        title: 'Population of Largest U.S. Cities',
+	        colors: ['#e0440e', '#e6693e', '#ec8f6e', '#f3b49f', '#f6c7b6'],
 	        chartArea: {width: '50%'},
 	        hAxis: {
 	          title: 'Total Population',

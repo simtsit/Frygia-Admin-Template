@@ -29,7 +29,9 @@ export class GeoChartComponent implements OnInit {
           ['RU', 700]
         ]);
 
-        var options = {};
+        var options = {
+          colors: ['#e0440e', '#e6693e', '#ec8f6e', '#f3b49f', '#f6c7b6'],
+        };
 
         var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
 

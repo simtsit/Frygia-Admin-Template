@@ -29,7 +29,9 @@ export class PiechartsimpleComponent implements OnInit {
 	]);
 
 	var options = {
-	  title: 'My Daily Activities'
+		title: 'My Daily Activities',
+		colors: ['#e0440e', '#e6693e', '#ec8f6e', '#f3b49f', '#f6c7b6'],
+		is3D: true,
 	};
 
 	var chart = new google.visualization.PieChart(document.getElementById('piechart'));
