@@ -1,35 +1,56 @@
 <div class="panel panel-default">
   <div class="panel-heading">DataTable - All Users</div>
   <div class="panel-body">
-	<table class="table table-striped">
-		<thead>
-			<tr>
-				<th scope="col">#</th>
-				<th>First Name</th>
-				<th>Last Name</th>
-				<th>Age</th>
-				<th>Phone</th>
-				<th>Invoices</th>
-				<th>Company</th>
-				<th>Email</th>
-				<th>Balance</th>
-				<th>Active</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr *ngFor = "let person of peopleData">
-				<td>{{person.index+1}}</td>
-				<td>{{person.name.first}}</td>
-				<td>{{person.name.last}}</td>
-				<td>{{person.age}}</td>
-				<td>{{person.phone}}</td>
-				<td>{{person.invoices}}</td>
-				<td>{{person.company}}</td>
-				<td>{{person.email}}</td>
-				<td>{{person.balance}}</td>
-				<td>{{person.isActive}}</td>		
-			</tr>
-		</tbody>
-	</table>
-  </div>
+  	<!-- table table-striped -->
+		<table id="dataTable" class="table table-bordered table-condensed table-hover table-striped no-footer" role="grid" aria-describedby="dataTable_info">
+			<thead>
+				<tr role="row">
+					<th>#</th>
+					<th>First Name</th>
+					<th>Last Name</th>
+					<th>Age</th>
+					<th>Phone</th>
+					<th>Invoices</th>
+					<th>Company</th>
+					<th>Email</th>
+					<th>Balance</th>
+					<th>Active</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr *ngFor = "let person of peopleData" role="row">
+					<td>{{person.index+1}}</td>
+					<td>{{person.name.first}}</td>
+					<td>{{person.name.last}}</td>
+					<td>{{person.age}}</td>
+					<td>{{person.phone}}</td>
+					<td>{{person.invoices}}</td>
+					<td>{{person.company}}</td>
+					<td>{{person.email}}</td>
+					<td>{{person.balance}}</td>
+					<td>{{person.isActive}}</td>		
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr role="row">
+					<th>#</th>
+					<th>First Name</th>
+					<th>Last Name</th>
+					<th>Age</th>
+					<th>Phone</th>
+					<th>Invoices</th>
+					<th>Company</th>
+					<th>Email</th>
+					<th>Balance</th>
+					<th>Active</th>
+				</tr>
+			</tfoot>		
+		</table>
+	</div>
 </div>
+
+  <script type="text/javascript">
+$(document).ready(function() {
+    $('#dataTable').DataTable();
+    } );
+</script>

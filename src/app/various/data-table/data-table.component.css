@@ -1,0 +1,6 @@
+.scrollit {
+	width: 100%;
+    overflow:scroll;
+    height:400px;
+    display: block;
+}
