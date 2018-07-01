@@ -30,6 +30,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Bootstrap - https://getbootstrap.com/
 Data created with JSON Generator - https://next.json-generator.com/ ( https://next.json-generator.com/EkF5CAQeB )
+DataTables - https://datatables.net/
+Google Charts - https://developers.google.com/chart/
 
 
 ## Disclaimer

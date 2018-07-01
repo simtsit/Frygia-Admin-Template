@@ -45,7 +45,7 @@ export class VariousStatisticsComponent implements OnInit {
 	}
 
 	this.lowestRevenue = this.highestRevenue;
-	this.lowestRevenueUser = this.highestREvenueUser;
+	this.lowestRevenueUser = this.highestRevenueUser;
 
 	for (let index in this.peopleData) {
 		// finding the lowest revenue and it user.

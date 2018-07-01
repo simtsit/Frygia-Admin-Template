@@ -15,7 +15,7 @@ import { PeopleService } from './people.service';
 
 // Page Components
 import { DashboardComponent } from './pages/dashboard/dashboard.component';
-import { TableComponent } from './pages/table/table.component';
+import { TablesComponent } from './pages/tables/tables.component';
 import { MappageComponent } from './pages/mappage/mappage.component';
 import { CalendarComponent } from './pages/calendar/calendar.component';
 
@@ -26,13 +26,14 @@ import { BarchartsimpleComponent } from './various/barchartsimple/barchartsimple
 import { GeoChartComponent } from './various/geo-chart/geo-chart.component';
 import { MapglobalComponent } from './various/mapglobal/mapglobal.component';
 import { VariousStatisticsComponent } from './various/various-statistics/various-statistics.component';
+import { DataTableComponent } from './various/data-table/data-table.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SidebarComponent,
     // NavbarComponent,
-    TableComponent,
+    TablesComponent,
     CardsComponent,
     DashboardComponent,
     PiechartsimpleComponent,
@@ -41,7 +42,8 @@ import { VariousStatisticsComponent } from './various/various-statistics/various
     GeoChartComponent,
     MappageComponent,
     MapglobalComponent,
-    VariousStatisticsComponent
+    VariousStatisticsComponent,
+    DataTableComponent
   ],
   imports: [
     BrowserModule,
@@ -55,8 +57,8 @@ import { VariousStatisticsComponent } from './various/various-statistics/various
             component: DashboardComponent
          },
          {
-            path: 'table',
-            component: TableComponent
+            path: 'tables',
+            component: TablesComponent
          },
          {
             path: 'calendar',
