@@ -25,6 +25,7 @@ import { PiechartsimpleComponent } from './various/piechartsimple/piechartsimple
 import { BarchartsimpleComponent } from './various/barchartsimple/barchartsimple.component';
 import { GeoChartComponent } from './various/geo-chart/geo-chart.component';
 import { MapglobalComponent } from './various/mapglobal/mapglobal.component';
+import { VariousStatisticsComponent } from './various/various-statistics/various-statistics.component';
 
 @NgModule({
   declarations: [
@@ -39,7 +40,8 @@ import { MapglobalComponent } from './various/mapglobal/mapglobal.component';
     CalendarComponent,
     GeoChartComponent,
     MappageComponent,
-    MapglobalComponent
+    MapglobalComponent,
+    VariousStatisticsComponent
   ],
   imports: [
     BrowserModule,

@@ -9,13 +9,12 @@ import { PeopleService } from './../../people.service';
 })
 
 export class PiechartsimpleComponent implements OnInit {
-
-
+	
   constructor(private people: PeopleService) {
    }
 
   ngOnInit() {
-  	this.peopleData = this.people.getPeople();
+	this.peopleData = this.people.getPeople();
 
   	var group1 = 0; // for storing people with age smaller than 20
   	var group2 = 0; // for storing people with age from 20 to 29

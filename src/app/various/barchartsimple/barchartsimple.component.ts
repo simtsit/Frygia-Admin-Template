@@ -10,10 +10,12 @@ import { PeopleService } from './../../people.service';
 })
 export class BarchartsimpleComponent implements OnInit {
 
+
   constructor(private people: PeopleService) {
   }
 
   ngOnInit() {
+	
   	this.peopleData = this.people.getPeople();
 
   	var sum1 = 0; // for storing balance from people with age smaller than 20
@@ -28,7 +30,6 @@ export class BarchartsimpleComponent implements OnInit {
 		if (this.peopleData[index].age >= 30 && this.peopleData[index].age < 39) { sum3 = sum3 + this.peopleData[index].balance }
 		if (this.peopleData[index].age >= 40 && this.peopleData[index].age < 49) { sum4 = sum4 + this.peopleData[index].balance }
 		if (this.peopleData[index].age >= 50) { sum5 = sum5 + this.peopleData[index].balance }
-		console.log(this.peopleData[index].balance);
   	}
 
 	google.charts.load('current', {packages: ['corechart', 'bar']});
