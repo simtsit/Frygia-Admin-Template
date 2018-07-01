@@ -12,13 +12,11 @@ export class PiechartsimpleComponent implements OnInit {
 
 
   constructor(private people: PeopleService) {
-
    }
 
   ngOnInit() {
   	this.peopleData = this.people.getPeople();
 
-  	// var index;
   	var group1 = 0; // for storing people with age smaller than 20
   	var group2 = 0; // for storing people with age from 20 to 29
   	var group3 = 0; // for storing people with age from 30 to 39
@@ -26,19 +24,12 @@ export class PiechartsimpleComponent implements OnInit {
   	var group5 = 0; // for storing people with age 50 or above
 
 	for (let index in this.peopleData) {
-	  		
   		if (this.peopleData[index].age < 20) { group1++}
   		if (this.peopleData[index].age >= 20 && this.peopleData[index].age < 29) { group2++}
 		if (this.peopleData[index].age >= 30 && this.peopleData[index].age < 39) { group3++}
 		if (this.peopleData[index].age >= 40 && this.peopleData[index].age < 49) { group4++}
 		if (this.peopleData[index].age >= 50) { group5++}
   	}
-
-		console.log(group1);
-		console.log(group2);
-		console.log(group3);
-		console.log(group4);
-		console.log(group5);
 
   	google.charts.load('current', {'packages':['corechart']});
 	google.charts.setOnLoadCallback(drawChart);
