@@ -27,6 +27,7 @@ import { GeoChartComponent } from './various/geo-chart/geo-chart.component';
 import { MapglobalComponent } from './various/mapglobal/mapglobal.component';
 import { VariousStatisticsComponent } from './various/various-statistics/various-statistics.component';
 import { DataTableComponent } from './various/data-table/data-table.component';
+import { TableTopDogsComponent } from './various/table-top-dogs/table-top-dogs.component';
 
 @NgModule({
   declarations: [
@@ -43,7 +44,8 @@ import { DataTableComponent } from './various/data-table/data-table.component';
     MappageComponent,
     MapglobalComponent,
     VariousStatisticsComponent,
-    DataTableComponent
+    DataTableComponent,
+    TableTopDogsComponent
   ],
   imports: [
     BrowserModule,
