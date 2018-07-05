@@ -18,6 +18,7 @@ import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { TablesComponent } from './pages/tables/tables.component';
 import { MappageComponent } from './pages/mappage/mappage.component';
 import { CalendarComponent } from './pages/calendar/calendar.component';
+import { FormsComponent } from './pages/forms/forms.component';
 
 // Various Components
 import { CardsComponent } from './various/cards/cards.component';
@@ -47,7 +48,8 @@ import { TableBottomCatsComponent } from './various/table-bottom-cats/table-bott
     VariousStatisticsComponent,
     DataTableComponent,
     TableTopDogsComponent,
-    TableBottomCatsComponent
+    TableBottomCatsComponent,
+    FormsComponent
   ],
   imports: [
     BrowserModule,
@@ -64,6 +66,10 @@ import { TableBottomCatsComponent } from './various/table-bottom-cats/table-bott
             path: 'tables',
             component: TablesComponent
          },
+         {
+            path: 'forms',
+            component: FormsComponent
+         },         
          {
             path: 'calendar',
             component: CalendarComponent
