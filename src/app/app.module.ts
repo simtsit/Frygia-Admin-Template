@@ -28,6 +28,7 @@ import { MapglobalComponent } from './various/mapglobal/mapglobal.component';
 import { VariousStatisticsComponent } from './various/various-statistics/various-statistics.component';
 import { DataTableComponent } from './various/data-table/data-table.component';
 import { TableTopDogsComponent } from './various/table-top-dogs/table-top-dogs.component';
+import { TableBottomCatsComponent } from './various/table-bottom-cats/table-bottom-cats.component';
 
 @NgModule({
   declarations: [
@@ -45,7 +46,8 @@ import { TableTopDogsComponent } from './various/table-top-dogs/table-top-dogs.c
     MapglobalComponent,
     VariousStatisticsComponent,
     DataTableComponent,
-    TableTopDogsComponent
+    TableTopDogsComponent,
+    TableBottomCatsComponent
   ],
   imports: [
     BrowserModule,
