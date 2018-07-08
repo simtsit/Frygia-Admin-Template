@@ -1,0 +1,51 @@
+<h1>{{pageData.h1title}}</h1>
+<hr>
+<div class="panel panel-default col-md-3">
+	<div class="panel-heading">Bio</div>
+	<div class="panel-body">
+		<img src="http://placehold.it/200x200">
+		<br/>
+		<p><strong>About:</strong></p>
+		<p>{{personData.about}}</p>		
+	</div>
+</div>
+
+<div class="col-md-1"></div>
+
+<div class="panel panel-default col-md-3">
+	<div class="panel-heading">User Details</div>
+	<div class="panel-body">
+		<ul>
+			<li><strong>User ID:</strong> {{personData._id}}</li>
+			<li><strong>Registered:</strong> {{personData.registered}}</li>
+		</ul>
+		<ul>
+ 			<li><strong>First Name:</strong> {{personData.name.first}}</li>
+			<li><strong>Last Name:</strong> {{personData.name.last}}</li> 
+			<li><strong>Age:</strong> {{personData.age}}</li> 
+			<li><strong>Eye Color:</strong> {{personData.eyeColor}}</li> 
+			<li><strong>Balance:</strong> {{personData.balance}}</li> 
+			<li><strong>Company:</strong> {{personData.company}}</li> 
+			<li><strong>Email:</strong> {{personData.email}}</li> 
+			<li><strong>Phone:</strong> {{personData.phone}}</li> 
+			<li><strong>isAcvtive:</strong> {{personData.isActive}}</li> 
+		</ul>
+		<br/>
+		<strong>Friends:</strong>
+		<ul>
+			<li>{{personData.friends[0].name}}</li> 
+			<li>{{personData.friends[1].name}}</li> 
+			<li>{{personData.friends[2].name}}</li> 
+		</ul>
+	</div>
+</div>
+
+<div class="col-md-1"></div>
+
+<div class="panel panel-default col-md-4">
+	<div class="panel-heading">Location: {{personData.latitude}},{{personData.longitude}}</div>
+	<strong>Address:</strong> {{personData.address}}	
+	<div class="panel-body">
+		<img src="http://placehold.it/485x270">
+	</div>
+</div>

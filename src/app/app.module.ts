@@ -32,6 +32,7 @@ import { DataTableComponent } from './various/data-table/data-table.component';
 import { TableTopDogsComponent } from './various/table-top-dogs/table-top-dogs.component';
 import { TableBottomCatsComponent } from './various/table-bottom-cats/table-bottom-cats.component';
 import { FormAddUserComponent } from './various/form-add-user/form-add-user.component';
+import { PersonProfileComponent } from './various/person-profile/person-profile.component';
 
 @NgModule({
   declarations: [
@@ -53,7 +54,8 @@ import { FormAddUserComponent } from './various/form-add-user/form-add-user.comp
     TableBottomCatsComponent,
     FormsComponent,
     FormAddUserComponent,
-    ProfileComponent
+    ProfileComponent,
+    PersonProfileComponent
   ],
   imports: [
     BrowserModule,
