@@ -19,6 +19,7 @@ import { TablesComponent } from './pages/tables/tables.component';
 import { MappageComponent } from './pages/mappage/mappage.component';
 import { CalendarComponent } from './pages/calendar/calendar.component';
 import { FormsComponent } from './pages/forms/forms.component';
+import { ProfileComponent } from './pages/profile/profile.component';
 
 // Various Components
 import { CardsComponent } from './various/cards/cards.component';
@@ -51,7 +52,8 @@ import { FormAddUserComponent } from './various/form-add-user/form-add-user.comp
     TableTopDogsComponent,
     TableBottomCatsComponent,
     FormsComponent,
-    FormAddUserComponent
+    FormAddUserComponent,
+    ProfileComponent
   ],
   imports: [
     BrowserModule,
@@ -79,7 +81,11 @@ import { FormAddUserComponent } from './various/form-add-user/form-add-user.comp
          {
             path: 'map',
             component: MappageComponent
-         }          
+         },
+         {
+            path: 'profile',
+            component: ProfileComponent
+         }           
       ])
   ],
   providers: [PeopleService],
