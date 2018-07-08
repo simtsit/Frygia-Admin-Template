@@ -7,6 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FormsComponent implements OnInit {
 
+  pageData = {
+  		"h1title": "Forms"
+  	};
+
+
   constructor() { }
 
   ngOnInit() {

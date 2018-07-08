@@ -30,6 +30,7 @@ import { VariousStatisticsComponent } from './various/various-statistics/various
 import { DataTableComponent } from './various/data-table/data-table.component';
 import { TableTopDogsComponent } from './various/table-top-dogs/table-top-dogs.component';
 import { TableBottomCatsComponent } from './various/table-bottom-cats/table-bottom-cats.component';
+import { FormAddUserComponent } from './various/form-add-user/form-add-user.component';
 
 @NgModule({
   declarations: [
@@ -49,7 +50,8 @@ import { TableBottomCatsComponent } from './various/table-bottom-cats/table-bott
     DataTableComponent,
     TableTopDogsComponent,
     TableBottomCatsComponent,
-    FormsComponent
+    FormsComponent,
+    FormAddUserComponent
   ],
   imports: [
     BrowserModule,
