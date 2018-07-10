@@ -6,9 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./page404.component.css']
 })
 export class Page404Component implements OnInit {
+  
   pageData = {
   		"h1title": "Page not found"
   	};
+
   constructor() { }
 
   ngOnInit() {
