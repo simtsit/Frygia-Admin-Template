@@ -20,6 +20,7 @@ import { MappageComponent } from './pages/mappage/mappage.component';
 import { CalendarComponent } from './pages/calendar/calendar.component';
 import { FormsComponent } from './pages/forms/forms.component';
 import { ProfileComponent } from './pages/profile/profile.component';
+import { Page404Component } from './pages/page404/page404.component';
 
 // Various Components
 import { CardsComponent } from './various/cards/cards.component';
@@ -55,7 +56,8 @@ import { PersonProfileComponent } from './various/person-profile/person-profile.
     FormsComponent,
     FormAddUserComponent,
     ProfileComponent,
-    PersonProfileComponent
+    PersonProfileComponent,
+    Page404Component
   ],
   imports: [
     BrowserModule,
@@ -87,7 +89,11 @@ import { PersonProfileComponent } from './various/person-profile/person-profile.
          {
             path: 'profile',
             component: ProfileComponent
-         }           
+         },
+         {
+            path: 'p404',
+            component: Page404Component
+         }
       ])
   ],
   providers: [PeopleService],
