@@ -23,6 +23,7 @@ import { ProfileComponent } from './pages/profile/profile.component';
 import { Page404Component } from './pages/page404/page404.component';
 import { TypographyComponent } from './pages/typography/typography.component';
 import { AboutComponent } from './pages/about/about.component';
+import { ArticleComponent } from './pages/article/article.component';
 
 // Various Components
 import { CardsComponent } from './various/cards/cards.component';
@@ -61,7 +62,8 @@ import { PersonProfileComponent } from './various/person-profile/person-profile.
     PersonProfileComponent,
     Page404Component,
     TypographyComponent,
-    AboutComponent
+    AboutComponent,
+    ArticleComponent
   ],
   imports: [
     BrowserModule,
@@ -105,7 +107,11 @@ import { PersonProfileComponent } from './various/person-profile/person-profile.
          {
             path: 'about',
             component: AboutComponent
-         }         
+         },
+         {
+            path: 'article',
+            component: ArticleComponent
+         }           
       ])
   ],
   providers: [PeopleService],
