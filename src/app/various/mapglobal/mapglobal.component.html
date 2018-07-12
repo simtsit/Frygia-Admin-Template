@@ -1,1 +1,30 @@
-<div id="map" style="width:400px;height:400px;background:yellow"></div>
+<div clas="row">
+	<div class="col-md-9">
+		<div id="map" style="map"></div>
+	</div>
+	<div class="col-md-3">
+		<table class="table">
+			<tr>
+				<th>Name</th>
+				<th>latitude</th>
+				<th>longitude</th>
+			</tr>
+			<tr *ngFor = "let person of peopleData">
+				<td>{{person.name.first}} {{person.name.last}}</td>
+				<td>{{person.latitude}}</td>
+				<td>{{person.longitude}}</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+<script>
+	function myMap() {
+		var mapOptions = {
+		    center: new google.maps.LatLng(51.5, -0.12),
+		    zoom: 10,
+		    mapTypeId: google.maps.MapTypeId.HYBRID,
+		}
+		var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+		}  
+</script>

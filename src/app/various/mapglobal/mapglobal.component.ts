@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
+import { PeopleService } from './../../people.service';
+
 @Component({
   selector: 'app-mapglobal',
   templateUrl: './mapglobal.component.html',
@@ -7,18 +9,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MapglobalComponent implements OnInit {
 
-  constructor() { }
+  constructor(private people: PeopleService) { }
 
   ngOnInit() {
-  	
-		function myMap() {
-		var mapOptions = {
-		    center: new google.maps.LatLng(51.5, -0.12),
-		    zoom: 10,
-		    mapTypeId: google.maps.MapTypeId.HYBRID,
-		}
-		var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-		}  	
+		this.peopleData = this.people.getPeople();
+		
+		
   }
 
 }
