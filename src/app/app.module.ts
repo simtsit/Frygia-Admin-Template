@@ -37,6 +37,7 @@ import { TableTopDogsComponent } from './various/table-top-dogs/table-top-dogs.c
 import { TableBottomCatsComponent } from './various/table-bottom-cats/table-bottom-cats.component';
 import { FormAddUserComponent } from './various/form-add-user/form-add-user.component';
 import { PersonProfileComponent } from './various/person-profile/person-profile.component';
+import { ArticleContentComponent } from './various/article-content/article-content.component';
 
 @NgModule({
   declarations: [
@@ -63,7 +64,8 @@ import { PersonProfileComponent } from './various/person-profile/person-profile.
     Page404Component,
     TypographyComponent,
     AboutComponent,
-    ArticleComponent
+    ArticleComponent,
+    ArticleContentComponent
   ],
   imports: [
     BrowserModule,
