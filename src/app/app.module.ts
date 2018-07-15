@@ -75,50 +75,17 @@ import { ArticleContentComponent } from './various/article-content/article-conte
       apiKey: 'AIzaSyA_PUNPCWz4lfXJ3xbf6oFr4N_WgkDcW-0'
     }),
     RouterModule.forRoot([
-         {
-            path: '',
-            component: DashboardComponent
-         },
-         {
-            path: 'dashboard',
-            component: DashboardComponent
-         },
-         {
-            path: 'tables',
-            component: TablesComponent
-         },
-         {
-            path: 'forms',
-            component: FormsComponent
-         },         
-         {
-            path: 'calendar',
-            component: CalendarComponent
-         },
-         {
-            path: 'map',
-            component: MappageComponent
-         },
-         {
-            path: 'profile',
-            component: ProfileComponent
-         },
-         {
-            path: 'p404',
-            component: Page404Component
-         },
-         {
-            path: 'typography',
-            component: TypographyComponent
-         },
-         {
-            path: 'about',
-            component: AboutComponent
-         },
-         {
-            path: 'article',
-            component: ArticleComponent
-         }           
+         {path: '',         component: DashboardComponent},
+         {path: 'dashboard',component: DashboardComponent},
+         {path: 'tables',   component: TablesComponent},
+         {path: 'forms',    component: FormsComponent},         
+         {path: 'calendar', component: CalendarComponent},
+         {path: 'map',      component: MappageComponent},
+         {path: 'profile',  component: ProfileComponent},
+         {path: 'p404',     component: Page404Component},
+         {path: 'typography', component: TypographyComponent},
+         {path: 'about',    component: AboutComponent},
+         {path: 'article',  component: ArticleComponent}           
       ])
   ],
   providers: [PeopleService],

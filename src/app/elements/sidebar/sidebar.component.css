@@ -60,6 +60,15 @@ ul.sidebarOptions {
     list-style: none;
 }
 
+
+.sidebarOptions i.fa {
+    float: left;
+    padding-right: 10px;
+    padding-top: 12px;
+}
+
+
+
  /*Medium devices (tablets, 768px and up)*/
 @media (max-width: 768px) { 
     .sidebarWrapper {
