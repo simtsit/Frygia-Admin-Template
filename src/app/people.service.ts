@@ -26,8 +26,8 @@ export class PeopleService {
     "address": "451 Hornell Loop, Bowmansville, Kansas, 9646",
     "about": "Sint laborum pariatur esse velit nostrud officia qui esse est reprehenderit. Qui nulla qui labore consequat aliquip minim incididunt est dolore consequat. Lorem proident adipisicing cupidatat eiusmod labore nisi. Pariatur dolor tempor dolore enim. Ut veniam laborum aute occaecat aliquip culpa. Culpa exercitation nulla elit pariatur amet consectetur ipsum duis laborum dolor.",
     "registered": "Tuesday, July 18, 2017 10:15 AM",
-    "latitude": "-21.720299",
-    "longitude": "-134.130595",
+    "latitude": -21.720299,
+    "longitude": -34.130595,
     "friends": [
       {
         "id": 0,
@@ -63,8 +63,8 @@ export class PeopleService {
     "address": "859 Stuyvesant Avenue, Ellerslie, California, 8873",
     "about": "Amet aliquip laboris reprehenderit qui culpa reprehenderit adipisicing est minim duis consequat. Anim adipisicing do minim aliqua adipisicing amet non excepteur pariatur anim ut amet. Consectetur fugiat culpa non consequat elit.",
     "registered": "Thursday, April 13, 2017 11:09 PM",
-    "latitude": "38.274437",
-    "longitude": "154.79151",
+    "latitude": 38.274437,
+    "longitude": 54.79151,
     "friends": [
       {
         "id": 0,
@@ -100,8 +100,8 @@ export class PeopleService {
     "address": "819 Vanderveer Street, Albrightsville, New Mexico, 6988",
     "about": "Fugiat consectetur non est ut. Veniam et dolor esse aliqua voluptate culpa laboris veniam quis ullamco et sit. Amet pariatur mollit ex velit ad adipisicing laborum. Aute esse incididunt officia et magna cupidatat reprehenderit elit dolore consequat. Enim occaecat elit eu consectetur esse non aute velit culpa cupidatat consequat nulla aute. Ea minim esse veniam adipisicing amet ut cupidatat ex. Aute nulla ipsum nisi eu aliqua consectetur duis pariatur adipisicing.",
     "registered": "Wednesday, May 31, 2017 7:35 AM",
-    "latitude": "-46.572014",
-    "longitude": "-77.760881",
+    "latitude": -46.572014,
+    "longitude": -77.760881,
     "friends": [
       {
         "id": 0,
@@ -137,8 +137,8 @@ export class PeopleService {
     "address": "298 Highland Boulevard, Roberts, Palau, 9830",
     "about": "Voluptate officia voluptate qui magna reprehenderit. Magna cupidatat consequat magna eiusmod reprehenderit do quis qui mollit cillum laboris. Ad pariatur sit velit commodo do irure non do qui cillum deserunt. Aliqua dolore proident ad pariatur deserunt excepteur. Sint id cillum dolor velit culpa et aute do nulla est nostrud et adipisicing pariatur. Ex occaecat sit cillum in laborum quis ea. Velit ex ex adipisicing anim id consectetur dolor elit.",
     "registered": "Tuesday, April 3, 2018 6:33 AM",
-    "latitude": "-87.326171",
-    "longitude": "-27.963176",
+    "latitude": -87.326171,
+    "longitude": -27.963176,
     "friends": [
       {
         "id": 0,
@@ -174,8 +174,8 @@ export class PeopleService {
     "address": "563 Matthews Place, Ypsilanti, Louisiana, 7044",
     "about": "Amet nisi in voluptate eu quis occaecat qui. Exercitation ad eu reprehenderit deserunt ad. Nisi Lorem officia in cupidatat ad duis tempor officia laboris non fugiat aliqua culpa in.",
     "registered": "Sunday, September 17, 2017 10:32 PM",
-    "latitude": "-61.853203",
-    "longitude": "-52.9823",
+    "latitude": -61.853203,
+    "longitude": -52.9823,
     "friends": [
       {
         "id": 0,
@@ -211,8 +211,8 @@ export class PeopleService {
     "address": "773 Conduit Boulevard, Moscow, Tennessee, 4410",
     "about": "Pariatur ipsum consectetur culpa dolor. Cupidatat nisi exercitation occaecat aliqua est ipsum. Cupidatat cillum esse duis nisi sit ut cupidatat aliquip. Nisi ullamco veniam qui aute sint enim commodo nisi. Quis deserunt quis cupidatat et elit nulla nostrud mollit mollit esse consectetur irure.",
     "registered": "Friday, April 20, 2018 5:09 PM",
-    "latitude": "-83.638292",
-    "longitude": "127.501862",
+    "latitude": -83.638292,
+    "longitude": 27.501862,
     "friends": [
       {
         "id": 0,
@@ -248,8 +248,8 @@ export class PeopleService {
     "address": "602 Hope Street, Foxworth, Utah, 570",
     "about": "Amet anim laborum quis deserunt duis. Adipisicing esse dolor aliqua qui non eiusmod cupidatat deserunt qui occaecat exercitation ad fugiat. Anim aliqua sint nulla laboris.",
     "registered": "Tuesday, March 20, 2018 1:31 AM",
-    "latitude": "45.11895",
-    "longitude": "-159.296874",
+    "latitude": 45.11895,
+    "longitude": -59.296874,
     "friends": [
       {
         "id": 0,
@@ -285,8 +285,8 @@ export class PeopleService {
     "address": "889 Kent Avenue, Thatcher, Pennsylvania, 5649",
     "about": "Ad cillum anim nostrud elit cillum esse laboris elit. Lorem cupidatat adipisicing fugiat veniam id consectetur dolor tempor ipsum commodo. Excepteur aliquip consectetur velit ad tempor ad duis adipisicing elit nulla irure nisi in. Esse duis aliquip nisi quis nulla elit deserunt exercitation est eu cupidatat occaecat. Laborum consequat veniam ullamco qui eu excepteur sint do elit ea ullamco sunt magna. Deserunt aliquip occaecat eu in sunt commodo duis cupidatat eiusmod quis magna.",
     "registered": "Saturday, March 18, 2017 7:15 AM",
-    "latitude": "64.756543",
-    "longitude": "-85.148881",
+    "latitude": 64.756543,
+    "longitude": -85.148881,
     "friends": [
       {
         "id": 0,
@@ -322,8 +322,8 @@ export class PeopleService {
     "address": "644 Beayer Place, Brethren, Massachusetts, 1408",
     "about": "Excepteur tempor qui officia labore irure nulla consequat pariatur cillum laboris duis adipisicing. Quis minim officia exercitation quis aliquip ad in mollit. Do non cillum mollit fugiat ipsum eu elit est laborum minim occaecat. Mollit labore commodo ad enim culpa voluptate voluptate Lorem anim. Aute laborum amet Lorem Lorem id fugiat velit. Commodo proident nulla dolore velit. Velit et labore esse eiusmod culpa anim ad eu ad commodo.",
     "registered": "Saturday, August 26, 2017 1:06 PM",
-    "latitude": "-14.705418",
-    "longitude": "-77.616196",
+    "latitude": -14.705418,
+    "longitude": -77.616196,
     "friends": [
       {
         "id": 0,
@@ -359,8 +359,8 @@ export class PeopleService {
     "address": "693 Woodhull Street, Matthews, Florida, 5808",
     "about": "Tempor non ex fugiat enim do sit ex mollit incididunt sit. Elit sit dolore sit id ut et enim mollit dolore sint veniam eiusmod id aliquip. Culpa magna mollit reprehenderit labore id in veniam Lorem. Cupidatat cillum in non exercitation nostrud. Tempor proident velit exercitation deserunt consequat in eiusmod veniam ea. Ullamco culpa elit amet deserunt in excepteur.",
     "registered": "Wednesday, February 14, 2018 8:24 PM",
-    "latitude": "9.561395",
-    "longitude": "48.343325",
+    "latitude": 9.561395,
+    "longitude": 48.343325,
     "friends": [
       {
         "id": 0,
@@ -396,8 +396,8 @@ export class PeopleService {
     "address": "654 Box Street, Riegelwood, North Carolina, 432",
     "about": "Dolor elit ullamco aliqua occaecat ea ad consequat esse incididunt sunt reprehenderit elit voluptate. Officia deserunt culpa veniam in et et consequat dolor. Cupidatat ad deserunt nulla cillum quis culpa minim. Consectetur minim pariatur officia laborum aliquip cillum tempor eu consequat ex cillum laboris labore. Aliqua in proident anim occaecat fugiat elit sit adipisicing Lorem. Est sit anim proident enim eu magna consequat nostrud anim occaecat nisi elit veniam amet.",
     "registered": "Friday, March 30, 2018 12:18 PM",
-    "latitude": "-37.409489",
-    "longitude": "48.609318",
+    "latitude": -37.409489,
+    "longitude": 48.609318,
     "friends": [
       {
         "id": 0,
@@ -433,8 +433,8 @@ export class PeopleService {
     "address": "735 Hart Street, Sedley, Alaska, 2947",
     "about": "Consequat ex aute ut irure nulla adipisicing et velit labore aliqua voluptate mollit ea ex. Labore aliquip ut ut excepteur incididunt est pariatur aliquip duis. Ut est ullamco veniam aliqua nisi Lorem est sit ullamco. Ea cupidatat esse in aute elit excepteur ea consequat do. Amet esse reprehenderit exercitation magna nisi reprehenderit. Laboris aute consequat proident veniam qui ea eu sit sit cillum amet commodo duis veniam. Culpa duis labore excepteur eu velit ut duis tempor duis consequat fugiat qui do.",
     "registered": "Thursday, November 9, 2017 4:06 PM",
-    "latitude": "-65.433449",
-    "longitude": "-49.693042",
+    "latitude": -65.433449,
+    "longitude": -49.693042,
     "friends": [
       {
         "id": 0,
@@ -470,8 +470,8 @@ export class PeopleService {
     "address": "618 Junius Street, Itmann, Washington, 8483",
     "about": "Veniam ex ea amet sint cupidatat aliqua aute culpa commodo magna. Dolore mollit sunt cupidatat eiusmod cupidatat eiusmod magna ad elit officia qui. Ut id est sunt do occaecat quis. Nostrud Lorem dolor cupidatat ullamco dolore. Occaecat ullamco mollit ullamco do. Magna et ullamco anim nulla do ea do qui sit ex occaecat. Excepteur ea ipsum ea enim ipsum elit qui non id proident aliquip est Lorem officia.",
     "registered": "Friday, June 16, 2017 2:14 AM",
-    "latitude": "-89.505887",
-    "longitude": "63.368669",
+    "latitude": -89.505887,
+    "longitude": 63.368669,
     "friends": [
       {
         "id": 0,
@@ -507,8 +507,8 @@ export class PeopleService {
     "address": "110 Main Street, Weedville, Texas, 8581",
     "about": "Sint anim enim minim veniam consequat anim do do cupidatat elit. Id ullamco nostrud et deserunt duis ex velit minim pariatur ad nisi adipisicing ad. Lorem ut proident pariatur ut enim adipisicing mollit occaecat. Magna et ea duis laborum ullamco consequat nisi elit.",
     "registered": "Wednesday, January 24, 2018 1:53 PM",
-    "latitude": "34.794659",
-    "longitude": "-105.690078",
+    "latitude": 34.794659,
+    "longitude": -5.690078,
     "friends": [
       {
         "id": 0,
@@ -544,8 +544,8 @@ export class PeopleService {
     "address": "125 Nassau Street, Gratton, Puerto Rico, 6638",
     "about": "Minim deserunt officia anim esse nulla proident velit. Laborum amet dolore cupidatat proident minim sit excepteur minim. Excepteur nulla officia ea consequat Lorem reprehenderit ut veniam nisi enim eiusmod consequat reprehenderit. Minim ullamco qui ullamco amet aute irure quis velit quis irure duis ad occaecat.",
     "registered": "Saturday, July 29, 2017 2:22 PM",
-    "latitude": "60.101616",
-    "longitude": "70.468079",
+    "latitude": 60.101616,
+    "longitude": 70.468079,
     "friends": [
       {
         "id": 0,
@@ -581,8 +581,8 @@ export class PeopleService {
     "address": "384 Conselyea Street, Stevens, Ohio, 3233",
     "about": "Minim duis adipisicing nostrud commodo quis. Dolore ipsum id minim tempor reprehenderit quis voluptate excepteur et occaecat id duis. Fugiat Lorem laborum aliquip quis mollit.",
     "registered": "Friday, October 20, 2017 5:24 AM",
-    "latitude": "52.412748",
-    "longitude": "-71.804712",
+    "latitude": 52.412748,
+    "longitude": -71.804712,
     "friends": [
       {
         "id": 0,
@@ -618,8 +618,8 @@ export class PeopleService {
     "address": "567 Eagle Street, Crisman, Alabama, 6925",
     "about": "Ad nisi qui irure sit Lorem occaecat magna sunt aliquip occaecat esse elit. Aute consequat et et mollit culpa enim aute adipisicing nisi. Magna velit ipsum dolore do. Ex ipsum veniam culpa eu exercitation proident voluptate labore veniam nisi aliquip pariatur reprehenderit eu.",
     "registered": "Monday, October 23, 2017 9:13 PM",
-    "latitude": "84.983998",
-    "longitude": "-47.12517",
+    "latitude": 84.983998,
+    "longitude": -47.12517,
     "friends": [
       {
         "id": 0,
@@ -655,8 +655,8 @@ export class PeopleService {
     "address": "626 Gem Street, Glenville, Hawaii, 3153",
     "about": "In dolor nulla nisi adipisicing Lorem nulla dolor. Qui veniam sunt anim aliquip fugiat dolore consequat consectetur id. Anim officia aliqua aute nulla esse duis aliquip et est tempor. Amet cupidatat anim voluptate voluptate cillum ex eiusmod non sint. Aliqua dolor amet labore eu anim officia aliqua et fugiat qui minim. Est elit aute id tempor aliquip tempor fugiat proident officia aliquip.",
     "registered": "Tuesday, June 5, 2018 4:11 PM",
-    "latitude": "35.539961",
-    "longitude": "106.415271",
+    "latitude": 35.539961,
+    "longitude": 106.415271,
     "friends": [
       {
         "id": 0,
@@ -692,8 +692,8 @@ export class PeopleService {
     "address": "251 Lamont Court, Wyano, Mississippi, 4185",
     "about": "Eiusmod fugiat qui et excepteur proident tempor Lorem cupidatat ut ut ullamco occaecat cillum. Mollit voluptate velit tempor aute id deserunt laboris officia consectetur ad. Officia eiusmod quis quis est sint duis non nulla cupidatat. Laboris ea sit qui elit enim. Commodo dolor occaecat ullamco ad voluptate enim.",
     "registered": "Friday, March 24, 2017 3:22 PM",
-    "latitude": "-31.261029",
-    "longitude": "-135.339804",
+    "latitude": -31.261029,
+    "longitude": -35.339804,
     "friends": [
       {
         "id": 0,
@@ -729,8 +729,8 @@ export class PeopleService {
     "address": "737 Oceanic Avenue, Benson, Georgia, 1618",
     "about": "Laborum voluptate occaecat irure magna anim voluptate nisi aliquip culpa tempor cupidatat minim ea. Nisi in anim nulla id. Ex amet labore aute minim ea qui eiusmod qui et tempor aliqua. Laborum commodo culpa dolore sint proident fugiat incididunt magna fugiat ad irure irure.",
     "registered": "Sunday, April 1, 2018 6:40 AM",
-    "latitude": "41.65077",
-    "longitude": "82.52971",
+    "latitude": 41.65077,
+    "longitude": 82.52971,
     "friends": [
       {
         "id": 0,
@@ -766,8 +766,8 @@ export class PeopleService {
     "address": "693 Hill Street, Freeburn, Connecticut, 9761",
     "about": "Ipsum enim irure ullamco proident do ex excepteur nostrud consequat consequat labore eu ex proident. Pariatur anim voluptate ut aliquip eiusmod sunt duis aliquip amet. Consectetur labore nulla laboris proident minim commodo pariatur ut reprehenderit officia magna exercitation.",
     "registered": "Monday, May 14, 2018 12:29 PM",
-    "latitude": "84.896282",
-    "longitude": "65.524109",
+    "latitude": 84.896282,
+    "longitude": 65.524109,
     "friends": [
       {
         "id": 0,
@@ -803,8 +803,8 @@ export class PeopleService {
     "address": "659 Village Road, Barrelville, New Jersey, 924",
     "about": "Duis sunt esse sit dolor pariatur exercitation dolore id fugiat amet. Laborum exercitation tempor aliqua ut officia. Voluptate sint amet incididunt consequat tempor ipsum aliqua magna ut eu duis est aliquip qui. Ea do est quis aliquip in cillum duis ex do voluptate. In et qui anim voluptate id reprehenderit. Cillum quis ea adipisicing velit amet aute ea. Exercitation commodo nisi officia sit sit dolore id velit sunt non cupidatat velit adipisicing.",
     "registered": "Saturday, May 26, 2018 4:33 PM",
-    "latitude": "-16.201499",
-    "longitude": "158.978241",
+    "latitude": -16.201499,
+    "longitude": 158.978241,
     "friends": [
       {
         "id": 0,
@@ -840,8 +840,8 @@ export class PeopleService {
     "address": "236 Porter Avenue, Jacksonwald, District Of Columbia, 6603",
     "about": "Irure duis voluptate elit labore. Deserunt est id aute ad ad amet dolore nulla ut commodo culpa eu dolor culpa. In est ipsum adipisicing nisi id. Sunt incididunt aliquip veniam aliqua elit qui. Do amet eiusmod commodo aliqua eu sint et nulla mollit eu. Ad labore ex do do cupidatat nulla consequat. Sunt irure eu culpa cupidatat esse sit occaecat enim et eu eiusmod proident.",
     "registered": "Saturday, February 4, 2017 12:16 AM",
-    "latitude": "10.840852",
-    "longitude": "-123.858331",
+    "latitude": 10.840852,
+    "longitude": -13.858331,
     "friends": [
       {
         "id": 0,
@@ -877,8 +877,8 @@ export class PeopleService {
     "address": "154 Cove Lane, Brantleyville, American Samoa, 8050",
     "about": "Eiusmod et quis aute qui ex proident Lorem consectetur est veniam ut deserunt quis. Lorem minim qui ipsum laboris. Aliquip nostrud consectetur ipsum magna aliqua. Dolore in esse minim consectetur velit. Dolor ea dolore ut non pariatur.",
     "registered": "Monday, August 21, 2017 9:24 PM",
-    "latitude": "-78.726339",
-    "longitude": "-69.582558",
+    "latitude": -78.726339,
+    "longitude": -69.582558,
     "friends": [
       {
         "id": 0,
@@ -914,8 +914,8 @@ export class PeopleService {
     "address": "838 Tompkins Avenue, Dunnavant, Maine, 1063",
     "about": "Pariatur cupidatat velit eiusmod aute eiusmod. Qui mollit ea quis do ut occaecat sunt ea sunt irure anim commodo labore sit. In cupidatat quis laborum et exercitation mollit do elit est laboris commodo magna.",
     "registered": "Thursday, January 19, 2017 7:42 AM",
-    "latitude": "-17.472554",
-    "longitude": "102.977681",
+    "latitude": -17.472554,
+    "longitude": 102.977681,
     "friends": [
       {
         "id": 0,
@@ -951,8 +951,8 @@ export class PeopleService {
     "address": "145 Graham Avenue, Tyro, New York, 2451",
     "about": "Amet deserunt aliqua aliquip pariatur officia cillum amet nostrud nostrud magna reprehenderit excepteur. Non do aliqua deserunt sit magna. Sunt amet do qui sint sint consectetur dolore duis adipisicing et laborum incididunt. Elit fugiat ut consequat ad culpa nisi aliquip velit qui. Duis amet proident sunt cillum deserunt excepteur labore consectetur amet id adipisicing id. Dolor deserunt fugiat pariatur ea voluptate quis deserunt laboris exercitation ut exercitation eu fugiat dolore.",
     "registered": "Tuesday, May 22, 2018 3:46 PM",
-    "latitude": "20.665026",
-    "longitude": "-157.730689",
+    "latitude": 20.665026,
+    "longitude": -157.730689,
     "friends": [
       {
         "id": 0,
@@ -988,8 +988,8 @@ export class PeopleService {
     "address": "170 Guernsey Street, Elfrida, Illinois, 4845",
     "about": "Aliqua est veniam incididunt est in adipisicing eu anim incididunt et. Anim non magna nulla enim do fugiat labore. Laboris ex duis consequat ut dolore laboris non eiusmod officia mollit duis. Irure labore duis voluptate voluptate voluptate. Ex cillum veniam mollit magna pariatur id reprehenderit fugiat sint consequat sit. Dolore ea labore ad irure labore excepteur consectetur commodo cupidatat dolor cupidatat culpa.",
     "registered": "Friday, October 13, 2017 8:50 AM",
-    "latitude": "-87.857447",
-    "longitude": "167.973082",
+    "latitude": -87.857447,
+    "longitude": 167.973082,
     "friends": [
       {
         "id": 0,
@@ -1025,8 +1025,8 @@ export class PeopleService {
     "address": "304 Noble Street, Kenmar, Marshall Islands, 9765",
     "about": "Voluptate et consectetur veniam laboris et cupidatat Lorem eu consequat. Cupidatat qui non et consectetur dolor Lorem ea. Dolore duis quis do mollit aute est ad sint commodo. Culpa voluptate laboris irure deserunt.",
     "registered": "Saturday, June 17, 2017 4:44 PM",
-    "latitude": "-37.497217",
-    "longitude": "119.921249",
+    "latitude": -37.497217,
+    "longitude": 119.921249,
     "friends": [
       {
         "id": 0,
@@ -1062,8 +1062,8 @@ export class PeopleService {
     "address": "404 Visitation Place, Independence, Nebraska, 1215",
     "about": "Ad tempor cupidatat velit dolore. Dolor officia dolor aliqua Lorem nulla excepteur enim irure commodo nostrud ex quis minim et. Consectetur culpa qui voluptate pariatur proident ut ad elit elit ut cupidatat id adipisicing. Laborum non laboris esse fugiat laborum esse. Id et incididunt reprehenderit sint eu.",
     "registered": "Thursday, September 7, 2017 11:10 AM",
-    "latitude": "-44.941146",
-    "longitude": "-134.116367",
+    "latitude": -44.941146,
+    "longitude": -134.116367,
     "friends": [
       {
         "id": 0,
@@ -1099,8 +1099,8 @@ export class PeopleService {
     "address": "468 Rockaway Parkway, Onton, Maryland, 7237",
     "about": "Ad eiusmod voluptate ex dolor. Amet reprehenderit commodo mollit duis proident enim aliquip veniam quis consequat ad consectetur proident consectetur. Qui culpa ipsum enim sunt minim. Commodo aliquip ullamco veniam ad. Aute est nulla commodo elit.",
     "registered": "Friday, October 27, 2017 4:33 AM",
-    "latitude": "-68.134625",
-    "longitude": "-74.737062",
+    "latitude": -68.134625,
+    "longitude": -74.737062,
     "friends": [
       {
         "id": 0,
@@ -1136,8 +1136,8 @@ export class PeopleService {
     "address": "470 Perry Place, Worcester, Missouri, 6763",
     "about": "Aliqua laborum proident sint pariatur aute consectetur tempor eu ad veniam mollit. Laborum labore officia do nulla consequat in ea in tempor sit exercitation eu anim laboris. Cillum irure ullamco exercitation sint eu commodo aliquip. Do enim eiusmod mollit exercitation ex consectetur nostrud eu id magna nulla. Nulla sunt mollit esse nulla officia nisi adipisicing. Minim ex sunt excepteur in occaecat nostrud incididunt deserunt ut esse proident. Sint officia id dolor deserunt ut laboris adipisicing in est adipisicing cupidatat.",
     "registered": "Monday, August 14, 2017 8:21 PM",
-    "latitude": "-46.157857",
-    "longitude": "115.578704",
+    "latitude": -46.157857,
+    "longitude": 15.578704,
     "friends": [
       {
         "id": 0,
@@ -1173,8 +1173,8 @@ export class PeopleService {
     "address": "330 Lacon Court, Rosine, Colorado, 1702",
     "about": "Irure eu in officia esse. Elit esse aute aute ipsum ut proident aliqua reprehenderit sunt culpa laboris. Quis id quis consectetur sit qui cupidatat pariatur. Officia qui pariatur id minim nostrud Lorem id mollit anim. Laborum Lorem id cupidatat id anim nostrud Lorem consectetur.",
     "registered": "Monday, December 18, 2017 2:40 AM",
-    "latitude": "-78.105293",
-    "longitude": "-19.737456",
+    "latitude": -78.105293,
+    "longitude": -19.737456,
     "friends": [
       {
         "id": 0,
@@ -1210,8 +1210,8 @@ export class PeopleService {
     "address": "513 Haring Street, Murillo, Iowa, 6428",
     "about": "Laboris nisi dolore mollit duis et consectetur. Qui ea consectetur do sit. Officia fugiat esse ex laborum elit excepteur in veniam. Officia cupidatat mollit anim et ullamco quis ut tempor minim.",
     "registered": "Saturday, April 7, 2018 11:08 PM",
-    "latitude": "10.781893",
-    "longitude": "170.256659",
+    "latitude": 10.781893,
+    "longitude": 10.256659,
     "friends": [
       {
         "id": 0,
@@ -1247,8 +1247,8 @@ export class PeopleService {
     "address": "330 Sunnyside Court, Fostoria, Michigan, 1429",
     "about": "Culpa laborum ex quis consectetur laborum laborum anim. Dolor esse culpa sint pariatur sit proident est ea incididunt est et consequat. Non reprehenderit mollit aute fugiat do duis deserunt cupidatat in dolore. Labore elit ex enim minim fugiat ut velit aliqua occaecat commodo cillum sint occaecat nisi.",
     "registered": "Saturday, January 6, 2018 3:22 AM",
-    "latitude": "62.688906",
-    "longitude": "121.230137",
+    "latitude": 62.688906,
+    "longitude": 12.230137,
     "friends": [
       {
         "id": 0,
@@ -1284,8 +1284,8 @@ export class PeopleService {
     "address": "362 Franklin Avenue, Belgreen, Montana, 9426",
     "about": "Anim in consectetur eiusmod culpa nulla proident reprehenderit fugiat culpa duis culpa sunt. In sit quis nisi ex cillum cillum dolor aliqua sunt duis qui. Laborum est adipisicing anim ullamco laboris ea commodo esse commodo laboris sint reprehenderit adipisicing. Exercitation laborum proident anim anim occaecat deserunt duis velit sunt ullamco.",
     "registered": "Thursday, February 23, 2017 9:29 PM",
-    "latitude": "-36.615177",
-    "longitude": "45.024048",
+    "latitude": -36.615177,
+    "longitude": 45.024048,
     "friends": [
       {
         "id": 0,
@@ -1321,8 +1321,8 @@ export class PeopleService {
     "address": "649 Anchorage Place, Gordon, Rhode Island, 3724",
     "about": "Ipsum occaecat fugiat quis anim velit commodo veniam irure mollit proident exercitation dolore proident dolor. Irure quis consectetur quis incididunt ut consequat. Mollit sint Lorem minim qui mollit quis esse fugiat non fugiat minim ut. Est est cupidatat sint ex eiusmod dolor nulla ea adipisicing aliquip nostrud quis id occaecat. Eu cillum aute consequat qui amet elit adipisicing non dolor velit nostrud. Mollit dolore ad anim eu culpa reprehenderit minim esse.",
     "registered": "Tuesday, August 1, 2017 4:17 AM",
-    "latitude": "18.319711",
-    "longitude": "133.408983",
+    "latitude": 18.319711,
+    "longitude": 23.408983,
     "friends": [
       {
         "id": 0,
@@ -1358,8 +1358,8 @@ export class PeopleService {
     "address": "896 Lloyd Court, Vienna, Wyoming, 1268",
     "about": "Proident amet exercitation dolor quis nulla nulla exercitation ea sit. Irure sint aliqua qui officia laborum. Velit non commodo aliquip anim. Culpa commodo aliquip enim id voluptate culpa ullamco dolor ea sunt commodo. Irure laborum elit exercitation dolore. Voluptate aliqua velit reprehenderit elit consectetur officia quis cupidatat enim occaecat labore ipsum ad eu.",
     "registered": "Monday, June 5, 2017 4:32 PM",
-    "latitude": "-31.568945",
-    "longitude": "113.076062",
+    "latitude": -31.568945,
+    "longitude": 113.076062,
     "friends": [
       {
         "id": 0,
@@ -1395,8 +1395,8 @@ export class PeopleService {
     "address": "499 Euclid Avenue, Lloyd, Delaware, 6133",
     "about": "Eu fugiat nisi consectetur ipsum quis voluptate irure. Esse aute eu proident pariatur ex. Sit adipisicing ullamco est consequat laboris irure incididunt non anim Lorem veniam.",
     "registered": "Sunday, February 25, 2018 8:55 PM",
-    "latitude": "67.254955",
-    "longitude": "-166.21688",
+    "latitude": 67.254955,
+    "longitude": -16.21688,
     "friends": [
       {
         "id": 0,
@@ -1432,8 +1432,8 @@ export class PeopleService {
     "address": "304 Throop Avenue, Orovada, Guam, 9313",
     "about": "Magna minim fugiat nulla do. Sunt laborum Lorem fugiat nisi ex tempor labore aliqua cillum magna velit anim. Culpa nulla do ex fugiat aliquip irure occaecat ea veniam id qui. Ex nostrud ipsum magna magna reprehenderit labore ut nulla excepteur quis veniam cillum labore.",
     "registered": "Monday, February 12, 2018 11:55 PM",
-    "latitude": "27.603481",
-    "longitude": "-35.604962",
+    "latitude": 27.603481,
+    "longitude": -35.604962,
     "friends": [
       {
         "id": 0,
@@ -1469,8 +1469,8 @@ export class PeopleService {
     "address": "881 Beekman Place, Staples, Virgin Islands, 3491",
     "about": "Commodo sunt esse nostrud consectetur et laboris dolor tempor. Do consectetur minim dolor irure aute ullamco officia consequat ut aute amet laborum et dolore. Ea amet eiusmod aute magna.",
     "registered": "Tuesday, February 28, 2017 7:53 PM",
-    "latitude": "39.111816",
-    "longitude": "126.422994",
+    "latitude": 39.111816,
+    "longitude": 26.422994,
     "friends": [
       {
         "id": 0,
@@ -1506,8 +1506,8 @@ export class PeopleService {
     "address": "625 Everett Avenue, Greenock, West Virginia, 8493",
     "about": "Ipsum consequat aliquip do anim commodo incididunt. Culpa esse nostrud laborum officia cupidatat minim labore culpa enim. Incididunt ipsum fugiat ut ad dolor ut. Occaecat tempor aute laboris labore mollit. Laborum dolore duis officia sunt. In cillum quis magna sunt duis qui elit. Eu officia minim enim Lorem est eu id ad minim.",
     "registered": "Tuesday, August 29, 2017 6:09 AM",
-    "latitude": "62.756096",
-    "longitude": "-118.266374",
+    "latitude": 62.756096,
+    "longitude": -118.266374,
     "friends": [
       {
         "id": 0,
@@ -1543,8 +1543,8 @@ export class PeopleService {
     "address": "207 Roosevelt Court, Yonah, Kentucky, 7683",
     "about": "Duis adipisicing aliqua mollit non ullamco ad duis in laboris sunt in nisi. Quis anim ad occaecat laborum ullamco anim dolore ipsum pariatur ex qui commodo elit magna. Labore ipsum Lorem excepteur dolor incididunt aliquip fugiat ex enim excepteur nisi nisi irure occaecat. Exercitation pariatur cupidatat non ad ex officia eu. Nisi ipsum adipisicing nulla quis mollit dolor ex esse elit ipsum proident irure laboris. Reprehenderit sit fugiat irure cillum.",
     "registered": "Tuesday, July 4, 2017 5:40 AM",
-    "latitude": "42.85418",
-    "longitude": "-30.927202",
+    "latitude": 42.85418,
+    "longitude": -30.927202,
     "friends": [
       {
         "id": 0,
@@ -1580,8 +1580,8 @@ export class PeopleService {
     "address": "225 Celeste Court, Gulf, Indiana, 3163",
     "about": "Excepteur eiusmod labore magna nisi labore reprehenderit. In ex laborum culpa laboris cillum Lorem aliqua. Nisi et qui ad qui laborum elit culpa aute Lorem. Incididunt commodo aute elit voluptate irure nisi Lorem nulla deserunt velit excepteur amet tempor est. Magna incididunt magna pariatur incididunt mollit enim aute. Duis reprehenderit cillum nostrud consectetur officia ipsum non nostrud irure. Eiusmod qui minim duis ea ipsum labore laboris elit aute adipisicing eiusmod eu enim aliqua.",
     "registered": "Sunday, March 5, 2017 2:46 AM",
-    "latitude": "57.696478",
-    "longitude": "179.789353",
+    "latitude": 57.696478,
+    "longitude": 19.789353,
     "friends": [
       {
         "id": 0,
@@ -1617,8 +1617,8 @@ export class PeopleService {
     "address": "626 Covert Street, Cornucopia, Oregon, 9347",
     "about": "Cillum ipsum do ipsum dolore ad amet incididunt reprehenderit ut do consequat labore. Non reprehenderit nisi esse eu officia ut laborum aliqua dolore fugiat. Fugiat aute laborum id ipsum est amet occaecat dolor minim. Ad quis cillum irure non velit Lorem sit proident consequat. Est est consectetur Lorem quis velit ea cupidatat ipsum aliquip proident.",
     "registered": "Tuesday, December 19, 2017 7:08 PM",
-    "latitude": "-61.772921",
-    "longitude": "22.399113",
+    "latitude": -61.772921,
+    "longitude": 22.399113,
     "friends": [
       {
         "id": 0,
@@ -1654,8 +1654,8 @@ export class PeopleService {
     "address": "507 Elton Street, Bentonville, Idaho, 8457",
     "about": "Laborum velit anim in ad adipisicing et tempor velit velit aliqua occaecat fugiat in adipisicing. Do consectetur magna eu qui magna ex Lorem qui occaecat dolor enim velit nostrud. Lorem et adipisicing ex dolor laborum.",
     "registered": "Saturday, February 25, 2017 5:34 AM",
-    "latitude": "88.254429",
-    "longitude": "143.010406",
+    "latitude": 88.254429,
+    "longitude": 43.010406,
     "friends": [
       {
         "id": 0,
@@ -1691,8 +1691,8 @@ export class PeopleService {
     "address": "357 Leonard Street, Cetronia, Wisconsin, 8515",
     "about": "Nisi et eu et quis et amet minim et consequat exercitation est. Deserunt deserunt duis consequat laboris ipsum. Exercitation magna consectetur tempor sint enim reprehenderit veniam amet fugiat duis laborum cillum. Qui et aliquip consectetur dolor.",
     "registered": "Saturday, February 11, 2017 8:18 PM",
-    "latitude": "-75.799791",
-    "longitude": "91.135207",
+    "latitude": -75.799791,
+    "longitude": 91.135207,
     "friends": [
       {
         "id": 0,
@@ -1728,8 +1728,8 @@ export class PeopleService {
     "address": "760 Lexington Avenue, Jugtown, South Dakota, 4006",
     "about": "Excepteur in officia voluptate ex id dolore nisi officia eiusmod Lorem excepteur. Ad duis proident proident aliqua non et esse cupidatat. Aute ut do anim tempor esse quis deserunt sunt. Commodo cupidatat pariatur deserunt laborum elit est cillum velit magna dolor sit dolore. Reprehenderit non nulla qui pariatur minim ullamco nostrud aliqua Lorem ad deserunt officia.",
     "registered": "Tuesday, January 16, 2018 6:31 AM",
-    "latitude": "25.373905",
-    "longitude": "-134.123325",
+    "latitude": 25.373905,
+    "longitude": -134.123325,
     "friends": [
       {
         "id": 0,
@@ -1765,8 +1765,8 @@ export class PeopleService {
     "address": "648 Glendale Court, Alden, Vermont, 8015",
     "about": "Amet et ut proident est proident do in consequat. Fugiat esse aute ea sint. Voluptate eiusmod laboris in ullamco reprehenderit exercitation laboris commodo. Ullamco minim aliqua occaecat labore aliqua non tempor minim anim aliqua sunt consectetur. Tempor ea sit irure eu eu qui aliqua culpa nisi eu quis. Exercitation eiusmod voluptate id nisi reprehenderit id pariatur qui est occaecat consectetur ad. Ipsum laboris ea sunt voluptate laborum in non culpa sit Lorem.",
     "registered": "Wednesday, June 21, 2017 8:05 AM",
-    "latitude": "-84.885519",
-    "longitude": "-160.766477",
+    "latitude": -84.885519,
+    "longitude": -160.766477,
     "friends": [
       {
         "id": 0,
@@ -1802,8 +1802,8 @@ export class PeopleService {
     "address": "971 Pierrepont Street, Belvoir, New Hampshire, 2806",
     "about": "Nisi fugiat excepteur ea deserunt. Enim mollit do qui do ipsum elit consectetur sit est. Occaecat deserunt laborum sit ea eiusmod id eiusmod tempor ut enim aliqua sit. Enim nulla consequat do esse laborum cillum nisi. Non ullamco et occaecat mollit consectetur veniam adipisicing. Amet enim magna id consequat. Reprehenderit ipsum ullamco dolor cillum do nulla.",
     "registered": "Sunday, March 18, 2018 1:58 PM",
-    "latitude": "-41.942153",
-    "longitude": "176.442482",
+    "latitude": -41.942153,
+    "longitude": 16.442482,
     "friends": [
       {
         "id": 0,
@@ -1839,8 +1839,8 @@ export class PeopleService {
     "address": "220 Allen Avenue, Brecon, Minnesota, 3510",
     "about": "Reprehenderit dolore dolore laboris eiusmod ea proident ea. Consectetur pariatur cillum eu do amet irure consequat adipisicing velit mollit est minim dolor. Officia cupidatat laboris est est laborum deserunt quis deserunt occaecat tempor. Minim occaecat ullamco ad proident dolor. Sint anim velit veniam reprehenderit cillum dolore labore et incididunt excepteur. Occaecat incididunt occaecat sit culpa eu anim occaecat aliquip aute anim officia aute excepteur.",
     "registered": "Saturday, February 25, 2017 11:08 AM",
-    "latitude": "-74.003963",
-    "longitude": "-28.414661",
+    "latitude": -74.003963,
+    "longitude": -28.414661,
     "friends": [
       {
         "id": 0,
@@ -1876,8 +1876,8 @@ export class PeopleService {
     "address": "191 Colonial Road, Vernon, Virginia, 4766",
     "about": "Consequat quis ex anim consequat eu aliquip incididunt velit aute incididunt eiusmod nulla proident commodo. Reprehenderit duis excepteur eiusmod commodo. Anim fugiat voluptate eiusmod magna commodo deserunt aliquip minim laboris Lorem laborum et voluptate.",
     "registered": "Friday, March 10, 2017 4:19 PM",
-    "latitude": "-10.725335",
-    "longitude": "17.29779",
+    "latitude": -10.725335,
+    "longitude": 17.29779,
     "friends": [
       {
         "id": 0,
@@ -1913,8 +1913,8 @@ export class PeopleService {
     "address": "748 Grattan Street, Drummond, Northern Mariana Islands, 7842",
     "about": "Nisi deserunt laboris fugiat dolor deserunt do Lorem. Id eiusmod consectetur nisi elit cillum qui velit fugiat in eiusmod tempor nulla. Aliquip incididunt nulla eu fugiat proident cupidatat nostrud tempor enim eiusmod tempor. Excepteur eiusmod non sint sint laborum do. Incididunt culpa est magna reprehenderit labore minim veniam non culpa id.",
     "registered": "Monday, March 6, 2017 4:37 PM",
-    "latitude": "-37.829006",
-    "longitude": "-12.076454",
+    "latitude": -37.829006,
+    "longitude": -12.076454,
     "friends": [
       {
         "id": 0,
@@ -1950,8 +1950,8 @@ export class PeopleService {
     "address": "974 Devoe Street, Vaughn, Arizona, 2452",
     "about": "Labore ut nulla pariatur amet proident dolore veniam veniam ex magna incididunt officia nisi sit. Magna tempor aliqua non nulla sint ad. Fugiat pariatur sunt eiusmod velit qui reprehenderit proident dolor Lorem ea incididunt quis sit aliqua. Esse est exercitation commodo tempor. In enim minim elit sunt eu. Eu duis ipsum cillum mollit mollit ut aliquip est deserunt velit dolore non. Aute ut ullamco ea sint elit nulla non labore cupidatat amet aute dolor.",
     "registered": "Wednesday, January 31, 2018 3:44 PM",
-    "latitude": "-16.802159",
-    "longitude": "-123.58896",
+    "latitude": -16.802159,
+    "longitude": -23.58896,
     "friends": [
       {
         "id": 0,
@@ -1987,8 +1987,8 @@ export class PeopleService {
     "address": "276 McKibbin Street, Winchester, Arkansas, 3160",
     "about": "Reprehenderit nisi sunt ex anim deserunt reprehenderit do dolor. Cillum anim occaecat fugiat tempor aute irure. Eiusmod aliqua dolore in sunt mollit ex dolor dolor laboris. Exercitation aute ipsum cillum Lorem consequat in enim tempor. Id amet quis pariatur anim est.",
     "registered": "Sunday, May 28, 2017 3:55 PM",
-    "latitude": "67.69962",
-    "longitude": "-118.544168",
+    "latitude": 67.69962,
+    "longitude": -118.544168,
     "friends": [
       {
         "id": 0,
@@ -2024,8 +2024,8 @@ export class PeopleService {
     "address": "134 Miami Court, Allison, Nevada, 8042",
     "about": "Proident consequat deserunt id nulla. Aliqua culpa occaecat non fugiat officia culpa sunt et enim culpa incididunt exercitation. Proident sint eiusmod amet ullamco quis in. Tempor non ad labore sit proident duis magna proident dolor. Lorem eiusmod reprehenderit ea culpa tempor id fugiat ea proident dolore ad non.",
     "registered": "Sunday, June 3, 2018 7:07 PM",
-    "latitude": "-25.205836",
-    "longitude": "144.130863",
+    "latitude": -25.205836,
+    "longitude": 44.130863,
     "friends": [
       {
         "id": 0,
@@ -2061,8 +2061,8 @@ export class PeopleService {
     "address": "457 Blake Court, Verdi, North Dakota, 6120",
     "about": "Enim culpa tempor nulla deserunt Lorem ex tempor excepteur eiusmod tempor. Officia et veniam sint excepteur dolor deserunt cillum minim ad. Quis eu exercitation duis nisi. Proident esse ut consequat sint labore. Voluptate amet est amet aliquip pariatur cillum officia consequat nisi adipisicing ipsum enim. Nulla nisi fugiat consectetur voluptate esse.",
     "registered": "Wednesday, January 17, 2018 9:48 PM",
-    "latitude": "79.088934",
-    "longitude": "3.926144",
+    "latitude": 79.088934,
+    "longitude": 3.926144,
     "friends": [
       {
         "id": 0,
@@ -2098,8 +2098,8 @@ export class PeopleService {
     "address": "982 Bryant Street, Beechmont, Oklahoma, 7534",
     "about": "Cillum voluptate sunt incididunt incididunt Lorem labore Lorem cupidatat id voluptate. Qui labore anim incididunt exercitation. Sunt ea magna labore sunt proident id ad irure eu tempor occaecat. Anim anim exercitation deserunt eiusmod labore ullamco ipsum Lorem eiusmod anim aliquip eu esse. Excepteur proident duis eiusmod veniam amet voluptate sint et. Est qui cupidatat dolore cillum est fugiat Lorem ad ex non eu qui.",
     "registered": "Saturday, December 30, 2017 12:26 AM",
-    "latitude": "-63.301761",
-    "longitude": "-2.227623",
+    "latitude": -63.301761,
+    "longitude": -2.227623,
     "friends": [
       {
         "id": 0,
@@ -2135,8 +2135,8 @@ export class PeopleService {
     "address": "861 Taaffe Place, Turah, South Carolina, 1978",
     "about": "Commodo dolor pariatur enim nostrud. Consectetur minim dolor proident consequat sit voluptate tempor ea magna. Aliquip nostrud eu cillum incididunt ipsum tempor tempor.",
     "registered": "Sunday, July 16, 2017 6:18 PM",
-    "latitude": "-60.12281",
-    "longitude": "-119.65629",
+    "latitude": -60.12281,
+    "longitude": -119.65629,
     "friends": [
       {
         "id": 0,
@@ -2172,8 +2172,8 @@ export class PeopleService {
     "address": "591 Dank Court, Teasdale, Kansas, 1482",
     "about": "Et mollit occaecat aute consequat amet sit sint. In reprehenderit eiusmod aliqua eiusmod aliquip duis occaecat ullamco non labore consequat ea cupidatat nisi. Sunt in occaecat labore minim. Voluptate consequat ad qui Lorem culpa incididunt veniam eu amet Lorem laboris.",
     "registered": "Saturday, September 30, 2017 8:02 PM",
-    "latitude": "-51.010793",
-    "longitude": "88.20155",
+    "latitude": -51.010793,
+    "longitude": 88.20155,
     "friends": [
       {
         "id": 0,
@@ -2209,8 +2209,8 @@ export class PeopleService {
     "address": "589 Bennet Court, Camino, California, 7324",
     "about": "Excepteur aliqua officia esse nostrud. Est dolore do est reprehenderit dolor sint id culpa eu. Duis incididunt Lorem incididunt pariatur velit aliquip consectetur excepteur labore culpa tempor adipisicing. Do occaecat nostrud est fugiat irure magna sunt exercitation ullamco ipsum aute. Esse do elit excepteur esse id.",
     "registered": "Sunday, April 15, 2018 9:00 AM",
-    "latitude": "-22.225836",
-    "longitude": "160.01717",
+    "latitude": -22.225836,
+    "longitude": 160.01717,
     "friends": [
       {
         "id": 0,
@@ -2246,8 +2246,8 @@ export class PeopleService {
     "address": "917 Kiely Place, Trail, New Mexico, 9395",
     "about": "Nulla dolor laborum elit incididunt. Elit Lorem adipisicing non sint aliquip ullamco. Sint cillum et ut excepteur nostrud excepteur amet non nulla tempor minim amet ullamco. Lorem in duis culpa proident sit occaecat sint. Enim proident laborum esse proident cillum excepteur minim ullamco. Aliquip amet nostrud in nostrud ut ex laboris enim sunt in. Nisi duis tempor officia esse.",
     "registered": "Tuesday, March 28, 2017 12:19 AM",
-    "latitude": "40.134113",
-    "longitude": "18.906483",
+    "latitude": 40.134113,
+    "longitude": 18.906483,
     "friends": [
       {
         "id": 0,
@@ -2283,8 +2283,8 @@ export class PeopleService {
     "address": "483 Newkirk Avenue, Newcastle, Palau, 5923",
     "about": "Consequat incididunt sit ex reprehenderit ex irure aliquip qui duis. Irure Lorem reprehenderit aute cillum elit irure cupidatat eiusmod. Veniam culpa eu qui elit. Veniam qui mollit non ex ad eu anim labore est id reprehenderit enim aliqua.",
     "registered": "Wednesday, March 7, 2018 6:41 PM",
-    "latitude": "69.478775",
-    "longitude": "-148.732074",
+    "latitude": 69.478775,
+    "longitude": -48.732074,
     "friends": [
       {
         "id": 0,
@@ -2320,8 +2320,8 @@ export class PeopleService {
     "address": "655 Chestnut Avenue, Dana, Louisiana, 9221",
     "about": "Reprehenderit culpa culpa excepteur labore ea laboris dolor nostrud dolor. Consequat occaecat ex sit occaecat ut. Officia reprehenderit tempor nisi ut fugiat dolore dolor non. Cillum cillum consequat officia ad ad irure sint.",
     "registered": "Tuesday, July 11, 2017 3:42 AM",
-    "latitude": "-37.061763",
-    "longitude": "-52.941471",
+    "latitude": -37.061763,
+    "longitude": -52.941471,
     "friends": [
       {
         "id": 0,
@@ -2357,8 +2357,8 @@ export class PeopleService {
     "address": "141 Barbey Street, Belfair, Tennessee, 3660",
     "about": "Non quis elit dolor mollit sunt duis et laborum nisi ex dolor eiusmod non proident. Ea aliquip consequat velit eiusmod dolore enim ad tempor mollit. Tempor qui mollit est excepteur. Ut culpa ullamco quis nostrud culpa non quis. Anim pariatur dolor sunt ipsum aute irure excepteur officia exercitation qui velit proident consectetur. Incididunt magna aliquip anim laboris cillum.",
     "registered": "Wednesday, January 31, 2018 9:26 AM",
-    "latitude": "60.473821",
-    "longitude": "-60.68939",
+    "latitude": 60.473821,
+    "longitude": -60.68939,
     "friends": [
       {
         "id": 0,
@@ -2394,8 +2394,8 @@ export class PeopleService {
     "address": "316 Pulaski Street, Campo, Utah, 1950",
     "about": "Occaecat sunt cupidatat exercitation laboris qui cupidatat cupidatat est dolor. Ipsum ad id irure cillum voluptate nulla est et dolor dolore mollit irure. Ipsum labore commodo magna cupidatat ut. Dolor consequat incididunt velit laborum quis nostrud cillum veniam occaecat dolore non ullamco duis ipsum.",
     "registered": "Monday, July 31, 2017 12:51 AM",
-    "latitude": "68.215955",
-    "longitude": "34.48491",
+    "latitude": 68.215955,
+    "longitude": 34.48491,
     "friends": [
       {
         "id": 0,
@@ -2431,8 +2431,8 @@ export class PeopleService {
     "address": "908 Rochester Avenue, Day, Pennsylvania, 304",
     "about": "Commodo Lorem excepteur dolor sint laboris eu amet id voluptate irure officia ut cupidatat. Cupidatat reprehenderit nulla commodo incididunt aliqua. Ad do consequat voluptate velit dolor aliqua. Elit eiusmod veniam ea reprehenderit enim sint occaecat est aute.",
     "registered": "Sunday, October 1, 2017 1:37 PM",
-    "latitude": "4.881316",
-    "longitude": "45.675932",
+    "latitude": 4.881316,
+    "longitude": 45.675932,
     "friends": [
       {
         "id": 0,
@@ -2468,8 +2468,8 @@ export class PeopleService {
     "address": "537 Turnbull Avenue, Warsaw, Massachusetts, 8171",
     "about": "Reprehenderit fugiat aliquip adipisicing minim est amet velit qui Lorem excepteur. Incididunt velit officia aliqua adipisicing reprehenderit aliqua adipisicing commodo proident consectetur. Eiusmod officia consequat culpa tempor pariatur incididunt exercitation in.",
     "registered": "Monday, August 14, 2017 8:33 PM",
-    "latitude": "-30.83958",
-    "longitude": "94.859717",
+    "latitude": -30.83958,
+    "longitude": 94.859717,
     "friends": [
       {
         "id": 0,
@@ -2505,8 +2505,8 @@ export class PeopleService {
     "address": "935 Seton Place, Tonopah, Florida, 4479",
     "about": "Cillum dolore sunt minim aliquip sit. Labore sit ex esse mollit quis ullamco aliquip ea proident officia incididunt esse aute tempor. Incididunt aliquip cupidatat adipisicing esse in duis id esse consectetur adipisicing ex commodo velit. Nostrud adipisicing excepteur eu ex.",
     "registered": "Friday, January 12, 2018 10:05 AM",
-    "latitude": "-55.006333",
-    "longitude": "-103.433716",
+    "latitude": -55.006333,
+    "longitude": -103.433716,
     "friends": [
       {
         "id": 0,
@@ -2542,8 +2542,8 @@ export class PeopleService {
     "address": "534 Dupont Street, Boling, North Carolina, 5778",
     "about": "Aliqua fugiat laboris est duis officia eiusmod elit eiusmod esse. Veniam ipsum cillum nulla velit pariatur eiusmod et nulla fugiat ut ad dolor ea. Exercitation ad laborum commodo commodo est minim eiusmod cillum duis. Do laboris ipsum exercitation laborum nostrud ad labore id consectetur occaecat. Duis aliquip proident nulla amet aliquip aute. Laborum commodo culpa do duis irure sunt et do cillum nisi in incididunt mollit anim.",
     "registered": "Wednesday, February 14, 2018 3:51 PM",
-    "latitude": "51.728568",
-    "longitude": "38.004647",
+    "latitude": 51.728568,
+    "longitude": 38.004647,
     "friends": [
       {
         "id": 0,
@@ -2579,8 +2579,8 @@ export class PeopleService {
     "address": "765 Overbaugh Place, Helen, Alaska, 694",
     "about": "Fugiat exercitation sint ea amet nisi occaecat eiusmod culpa commodo sunt minim. Aliquip cupidatat tempor nisi consequat irure consequat culpa magna esse id magna nostrud. Dolor anim sint consectetur minim incididunt aliquip voluptate ipsum culpa ullamco pariatur ullamco fugiat voluptate. Duis mollit non proident ipsum eu sint tempor ad magna cupidatat laboris ullamco.",
     "registered": "Thursday, October 19, 2017 11:49 AM",
-    "latitude": "15.274132",
-    "longitude": "-16.666702",
+    "latitude": 15.274132,
+    "longitude": -16.666702,
     "friends": [
       {
         "id": 0,
@@ -2616,8 +2616,8 @@ export class PeopleService {
     "address": "805 Locust Avenue, Jackpot, Washington, 4486",
     "about": "Sint tempor mollit excepteur reprehenderit in nisi aute deserunt duis in cillum. Ullamco pariatur aliquip id cupidatat cupidatat enim do ea eu reprehenderit aute sint elit. Incididunt incididunt ad fugiat proident irure commodo aute eiusmod magna occaecat aliquip.",
     "registered": "Thursday, July 6, 2017 11:04 AM",
-    "latitude": "1.259191",
-    "longitude": "-132.594595",
+    "latitude": 1.259191,
+    "longitude": -32.594595,
     "friends": [
       {
         "id": 0,
@@ -2653,8 +2653,8 @@ export class PeopleService {
     "address": "303 Bushwick Place, Davenport, Texas, 5702",
     "about": "Duis sit laboris in proident non deserunt aliqua cillum mollit quis esse qui cupidatat laboris. Amet do adipisicing do incididunt. Ex voluptate dolor tempor irure. Esse cillum adipisicing pariatur consectetur eu dolor incididunt cupidatat ea laborum sint mollit aliquip.",
     "registered": "Tuesday, January 23, 2018 3:59 AM",
-    "latitude": "40.162176",
-    "longitude": "-142.820502",
+    "latitude": 40.162176,
+    "longitude": -142.820502,
     "friends": [
       {
         "id": 0,
@@ -2690,8 +2690,8 @@ export class PeopleService {
     "address": "160 Clinton Avenue, Muse, Puerto Rico, 8153",
     "about": "Id non adipisicing ea officia ipsum cupidatat consectetur. Cupidatat aute nulla tempor sit mollit quis aliquip ea laborum labore cupidatat fugiat. Ut duis in est sit anim dolore amet mollit minim. Cupidatat est voluptate officia duis officia laboris in. Irure aliquip mollit et occaecat et labore voluptate anim. Cupidatat nostrud amet cillum nisi non laboris adipisicing qui ad duis. Aute occaecat magna ad veniam pariatur incididunt exercitation aliqua tempor magna reprehenderit voluptate.",
     "registered": "Wednesday, March 7, 2018 7:06 PM",
-    "latitude": "80.38731",
-    "longitude": "1.373833",
+    "latitude": 80.38731,
+    "longitude": 1.373833,
     "friends": [
       {
         "id": 0,
@@ -2727,8 +2727,8 @@ export class PeopleService {
     "address": "240 Cyrus Avenue, Dubois, Ohio, 6632",
     "about": "Non nisi excepteur nisi ad occaecat velit commodo non. Dolore fugiat est ullamco occaecat adipisicing aliquip veniam. Sunt proident fugiat deserunt quis est aute officia et sunt anim est. Eiusmod duis ad commodo ea occaecat ad consequat eiusmod pariatur consequat veniam eu qui amet. Sint aliqua minim non excepteur dolore sunt tempor labore id aliqua cillum occaecat veniam. Cupidatat amet aliquip sit ullamco magna eiusmod ex incididunt labore mollit ea et. Eiusmod minim anim aliquip adipisicing do qui minim aliqua reprehenderit laboris.",
     "registered": "Saturday, August 12, 2017 3:27 AM",
-    "latitude": "-52.497582",
-    "longitude": "-46.56922",
+    "latitude": -52.497582,
+    "longitude": -46.56922,
     "friends": [
       {
         "id": 0,
@@ -2764,8 +2764,8 @@ export class PeopleService {
     "address": "889 Williams Court, Laurelton, Alabama, 2591",
     "about": "Ex ullamco culpa mollit nostrud fugiat qui cupidatat ullamco nulla. Excepteur ad in enim sunt. Pariatur aliqua ut mollit aute commodo sunt consectetur exercitation dolor. Proident eiusmod exercitation labore Lorem consequat sit nulla dolor et culpa non est occaecat sunt.",
     "registered": "Monday, January 22, 2018 8:29 PM",
-    "latitude": "3.123792",
-    "longitude": "139.81351",
+    "latitude": 3.123792,
+    "longitude": 19.81351,
     "friends": [
       {
         "id": 0,
@@ -2801,8 +2801,8 @@ export class PeopleService {
     "address": "220 Grove Street, Concho, Hawaii, 5977",
     "about": "Id amet consequat elit excepteur mollit excepteur enim nulla fugiat. Dolor non sint proident cupidatat ea labore mollit elit sunt officia velit. Id sint sint elit duis.",
     "registered": "Thursday, November 2, 2017 6:59 PM",
-    "latitude": "-26.791685",
-    "longitude": "84.074806",
+    "latitude": -26.791685,
+    "longitude": 84.074806,
     "friends": [
       {
         "id": 0,
@@ -2838,8 +2838,8 @@ export class PeopleService {
     "address": "746 Calyer Street, Dupuyer, Mississippi, 2992",
     "about": "Est sit adipisicing proident tempor do ad anim veniam veniam velit. Non proident aute velit cillum excepteur ullamco. Qui duis nostrud anim anim laboris sint. Irure duis consectetur reprehenderit aute cillum commodo. Minim nostrud sit ad deserunt sit deserunt id. Officia eu ex minim exercitation dolore aliqua. Ea aute aute nostrud officia quis tempor mollit ex labore ad consectetur.",
     "registered": "Friday, April 28, 2017 5:16 PM",
-    "latitude": "-26.471595",
-    "longitude": "63.1639",
+    "latitude": -26.471595,
+    "longitude": 63.1639,
     "friends": [
       {
         "id": 0,
@@ -2875,8 +2875,8 @@ export class PeopleService {
     "address": "475 Arlington Avenue, Osage, Georgia, 7246",
     "about": "Officia in qui qui sint veniam elit aute non minim. Nisi adipisicing reprehenderit et sint excepteur magna reprehenderit eu aliqua. In adipisicing laboris sint veniam consequat tempor. Ea cillum voluptate anim irure Lorem aliquip enim. Culpa qui nisi reprehenderit duis do anim enim nostrud.",
     "registered": "Tuesday, March 7, 2017 8:42 PM",
-    "latitude": "-24.403687",
-    "longitude": "2.242778",
+    "latitude": -24.403687,
+    "longitude": 2.242778,
     "friends": [
       {
         "id": 0,
@@ -2912,8 +2912,8 @@ export class PeopleService {
     "address": "723 Bijou Avenue, Garberville, Connecticut, 3257",
     "about": "Id nostrud magna id laboris in ea irure exercitation ut laboris reprehenderit fugiat. Nostrud velit eiusmod id adipisicing excepteur incididunt anim est eu minim laborum. Excepteur tempor non mollit ea Lorem excepteur nostrud tempor excepteur adipisicing reprehenderit consectetur. Amet duis Lorem qui aliqua magna velit magna est cupidatat pariatur cupidatat. Est cillum esse pariatur proident mollit ullamco reprehenderit qui consectetur qui.",
     "registered": "Wednesday, May 9, 2018 2:00 PM",
-    "latitude": "-54.090119",
-    "longitude": "115.722956",
+    "latitude": -54.090119,
+    "longitude": 115.722956,
     "friends": [
       {
         "id": 0,
@@ -2949,8 +2949,8 @@ export class PeopleService {
     "address": "552 Brightwater Court, Advance, New Jersey, 2811",
     "about": "Eiusmod elit laborum excepteur et officia consectetur eu. Mollit eu consequat commodo in cillum velit sint nostrud irure nisi exercitation. Exercitation anim do fugiat pariatur. Aliqua occaecat et enim sint cupidatat ut dolore culpa laborum qui cillum est amet. Velit proident amet esse aliqua. Proident sunt Lorem eu occaecat occaecat in sit dolore laborum eiusmod ex enim occaecat mollit.",
     "registered": "Tuesday, November 14, 2017 11:04 PM",
-    "latitude": "-9.103752",
-    "longitude": "58.514851",
+    "latitude": -9.103752,
+    "longitude": 58.514851,
     "friends": [
       {
         "id": 0,
@@ -2986,8 +2986,8 @@ export class PeopleService {
     "address": "326 Montana Place, Grantville, District Of Columbia, 5505",
     "about": "Cillum et dolore exercitation duis proident. Veniam veniam minim amet dolor laboris id deserunt ipsum. Id ipsum officia reprehenderit occaecat. Cupidatat sint ad enim eiusmod non incididunt excepteur.",
     "registered": "Saturday, May 26, 2018 11:18 PM",
-    "latitude": "-57.361439",
-    "longitude": "-77.636666",
+    "latitude": -57.361439,
+    "longitude": -77.636666,
     "friends": [
       {
         "id": 0,
@@ -3023,8 +3023,8 @@ export class PeopleService {
     "address": "922 Kings Place, Tyhee, American Samoa, 4453",
     "about": "Consequat id enim incididunt est ea pariatur laborum. Tempor elit do officia minim quis deserunt deserunt cupidatat quis. Esse eu dolore nulla excepteur. Est officia pariatur aute exercitation. Qui voluptate mollit mollit proident ex Lorem ut. Qui incididunt mollit officia elit id aute cillum.",
     "registered": "Tuesday, February 21, 2017 1:39 AM",
-    "latitude": "69.154717",
-    "longitude": "25.015952",
+    "latitude": 69.154717,
+    "longitude": 25.015952,
     "friends": [
       {
         "id": 0,
@@ -3060,8 +3060,8 @@ export class PeopleService {
     "address": "172 Manhattan Court, Joes, Maine, 4898",
     "about": "Duis id amet incididunt non aliqua et deserunt eiusmod. Officia irure commodo officia elit qui id pariatur. Amet culpa pariatur est ut incididunt sit fugiat laboris magna labore esse amet. Esse sunt est occaecat cillum cillum minim non est. Laborum irure consequat excepteur proident sunt sit enim et ea eiusmod id id. Et mollit minim fugiat do ullamco do culpa magna fugiat.",
     "registered": "Monday, January 9, 2017 6:07 PM",
-    "latitude": "-41.924789",
-    "longitude": "31.462282",
+    "latitude": -41.924789,
+    "longitude": 31.462282,
     "friends": [
       {
         "id": 0,
@@ -3097,8 +3097,8 @@ export class PeopleService {
     "address": "622 Irwin Street, Dellview, New York, 4845",
     "about": "Fugiat Lorem ea eiusmod veniam aliqua anim velit commodo aute elit labore nulla labore aliqua. Ut velit enim dolore irure sit aliqua excepteur dolore. Minim adipisicing consequat non tempor non exercitation labore elit ex magna. Eiusmod exercitation Lorem do consectetur tempor sit. Reprehenderit reprehenderit quis duis commodo ipsum proident nisi et. Esse ullamco labore id amet laboris nisi.",
     "registered": "Friday, May 25, 2018 1:03 PM",
-    "latitude": "78.212859",
-    "longitude": "-7.34983",
+    "latitude": 78.212859,
+    "longitude": -7.34983,
     "friends": [
       {
         "id": 0,
@@ -3134,8 +3134,8 @@ export class PeopleService {
     "address": "191 Clinton Street, Brady, Illinois, 4024",
     "about": "Ipsum ea voluptate nostrud deserunt amet velit elit ex proident aliqua mollit in duis. Laboris sit dolor adipisicing voluptate sit laboris esse commodo magna cillum labore ut magna pariatur. Aliquip consequat eiusmod nulla culpa veniam irure nostrud exercitation duis. Ipsum dolor cupidatat ullamco esse id Lorem voluptate elit do tempor proident ex.",
     "registered": "Sunday, March 5, 2017 10:04 PM",
-    "latitude": "-50.658594",
-    "longitude": "130.678372",
+    "latitude": -50.658594,
+    "longitude": 3.678372,
     "friends": [
       {
         "id": 0,
@@ -3171,8 +3171,8 @@ export class PeopleService {
     "address": "425 Cortelyou Road, Motley, Marshall Islands, 5529",
     "about": "Duis ipsum sint magna magna consequat occaecat. Esse ullamco exercitation mollit culpa ex esse esse. Nisi ipsum et anim irure est aliquip fugiat minim magna laborum. Adipisicing eu ut excepteur laborum. Quis aute esse amet elit.",
     "registered": "Thursday, July 6, 2017 3:58 PM",
-    "latitude": "-3.585353",
-    "longitude": "98.997213",
+    "latitude": -3.585353,
+    "longitude": 98.997213,
     "friends": [
       {
         "id": 0,
@@ -3208,8 +3208,8 @@ export class PeopleService {
     "address": "395 Veranda Place, Gila, Nebraska, 3438",
     "about": "Minim magna excepteur in ea sit aute non ex. Sit amet nulla ullamco laborum voluptate eu ea nisi id. Tempor exercitation reprehenderit sunt et. Culpa minim tempor laboris est qui et fugiat non. Et voluptate occaecat excepteur labore sit enim. Occaecat dolore qui esse adipisicing ex labore est. Anim cupidatat officia quis aute aliqua est consectetur aute.",
     "registered": "Sunday, February 19, 2017 12:42 AM",
-    "latitude": "44.372529",
-    "longitude": "-137.487781",
+    "latitude": 44.372529,
+    "longitude": -137.487781,
     "friends": [
       {
         "id": 0,
@@ -3245,8 +3245,8 @@ export class PeopleService {
     "address": "214 Fane Court, Wilmington, Maryland, 9030",
     "about": "Amet aute minim deserunt nisi do enim cillum cillum id proident. Dolor et irure officia excepteur nulla. Laboris anim cillum velit velit tempor adipisicing irure voluptate velit mollit incididunt.",
     "registered": "Saturday, October 7, 2017 11:53 AM",
-    "latitude": "-87.112292",
-    "longitude": "-3.083896",
+    "latitude": -87.112292,
+    "longitude": -3.083896,
     "friends": [
       {
         "id": 0,
@@ -3282,8 +3282,8 @@ export class PeopleService {
     "address": "908 Creamer Street, Bainbridge, Missouri, 201",
     "about": "Deserunt deserunt laboris anim amet velit proident fugiat et esse. Duis anim nisi occaecat ea excepteur voluptate veniam exercitation et cupidatat proident Lorem amet sit. Do eiusmod occaecat eiusmod officia quis occaecat magna qui consequat laboris.",
     "registered": "Saturday, October 14, 2017 10:45 PM",
-    "latitude": "41.104408",
-    "longitude": "-37.413889",
+    "latitude": 41.104408,
+    "longitude": -37.413889,
     "friends": [
       {
         "id": 0,
@@ -3319,8 +3319,8 @@ export class PeopleService {
     "address": "401 Rugby Road, Greenwich, Colorado, 3279",
     "about": "Pariatur nulla esse est minim est qui excepteur nulla consequat officia. Dolor voluptate elit magna ullamco id occaecat reprehenderit dolore tempor cillum ea exercitation deserunt. Qui cillum esse in Lorem officia cillum ut nisi sit ex elit aute occaecat. Pariatur non laboris occaecat incididunt qui sint ad esse.",
     "registered": "Sunday, March 12, 2017 12:27 AM",
-    "latitude": "72.126062",
-    "longitude": "-60.766661",
+    "latitude": 72.126062,
+    "longitude": -60.766661,
     "friends": [
       {
         "id": 0,
@@ -3356,8 +3356,8 @@ export class PeopleService {
     "address": "699 Conover Street, Savannah, Iowa, 3149",
     "about": "Id nostrud mollit officia eu deserunt in exercitation nisi nostrud cillum veniam aliqua. Proident esse excepteur elit nisi excepteur aliquip pariatur amet eiusmod ipsum aliquip aliquip id. Nisi est dolor qui voluptate occaecat elit sint irure minim ullamco nostrud reprehenderit est aliquip. Consectetur exercitation est duis pariatur elit minim labore Lorem incididunt. Nisi nisi magna aute non sint deserunt ex qui aliqua sit magna aliqua id.",
     "registered": "Sunday, October 22, 2017 1:45 PM",
-    "latitude": "-86.172013",
-    "longitude": "-163.521856",
+    "latitude": -86.172013,
+    "longitude": -163.521856,
     "friends": [
       {
         "id": 0,
@@ -3393,8 +3393,8 @@ export class PeopleService {
     "address": "983 Bokee Court, Shawmut, Michigan, 1133",
     "about": "Fugiat reprehenderit ex officia officia consequat non enim ullamco qui. Consequat labore et minim qui occaecat voluptate magna anim nisi deserunt. Consectetur ut deserunt anim adipisicing aliquip dolor ad. Minim dolor laborum esse id est.",
     "registered": "Saturday, January 6, 2018 3:04 AM",
-    "latitude": "-67.094907",
-    "longitude": "51.512093",
+    "latitude": -67.094907,
+    "longitude": 51.512093,
     "friends": [
       {
         "id": 0,
@@ -3430,8 +3430,8 @@ export class PeopleService {
     "address": "286 Scott Avenue, Marysville, Montana, 8228",
     "about": "Dolor ex aliqua veniam amet et nulla nulla do sit. Reprehenderit consequat aute nulla ad incididunt pariatur velit sint do veniam amet. Sit velit adipisicing nisi aute ullamco excepteur elit. Mollit est enim voluptate culpa non cupidatat officia nostrud esse consectetur. Dolor aliquip sint laborum eiusmod ipsum cillum qui eu laboris excepteur Lorem do ea officia. Nostrud ad in reprehenderit labore velit ea.",
     "registered": "Sunday, March 11, 2018 4:39 PM",
-    "latitude": "21.487692",
-    "longitude": "129.971826",
+    "latitude": 21.487692,
+    "longitude": 129.971826,
     "friends": [
       {
         "id": 0,
@@ -3467,8 +3467,8 @@ export class PeopleService {
     "address": "547 Stewart Street, Nelson, Rhode Island, 9830",
     "about": "Duis occaecat amet voluptate nostrud qui incididunt veniam officia reprehenderit. Eiusmod tempor duis officia mollit commodo eu ea esse fugiat magna duis nisi. Pariatur non anim elit proident id incididunt voluptate cillum sunt labore qui. Enim cillum qui culpa anim esse veniam esse amet proident cillum excepteur.",
     "registered": "Tuesday, January 9, 2018 7:52 AM",
-    "latitude": "-83.858488",
-    "longitude": "15.786875",
+    "latitude": -83.858488,
+    "longitude": 15.786875,
     "friends": [
       {
         "id": 0,
@@ -3504,8 +3504,8 @@ export class PeopleService {
     "address": "285 Florence Avenue, Cutter, Wyoming, 668",
     "about": "Exercitation enim consequat in tempor id. Cupidatat minim pariatur consectetur reprehenderit. Officia officia laboris nulla laboris ipsum reprehenderit cillum duis Lorem.",
     "registered": "Monday, July 24, 2017 11:29 AM",
-    "latitude": "-80.238525",
-    "longitude": "-42.321943",
+    "latitude": -80.238525,
+    "longitude": -42.321943,
     "friends": [
       {
         "id": 0,
@@ -3541,8 +3541,8 @@ export class PeopleService {
     "address": "511 Roebling Street, Dexter, Delaware, 7373",
     "about": "Cupidatat officia veniam quis amet qui qui sint nisi labore elit. Eu ullamco adipisicing exercitation nisi incididunt dolor sunt qui voluptate. Exercitation aute aute aliquip eiusmod.",
     "registered": "Tuesday, January 16, 2018 3:06 AM",
-    "latitude": "19.274275",
-    "longitude": "158.39327",
+    "latitude": 19.274275,
+    "longitude": 158.39327,
     "friends": [
       {
         "id": 0,
@@ -3578,8 +3578,8 @@ export class PeopleService {
     "address": "967 Cornelia Street, Riverton, Guam, 6999",
     "about": "Irure nisi voluptate veniam exercitation. Esse officia duis minim officia ullamco esse consectetur tempor. Non dolor culpa dolor ad ex. Elit anim aliquip adipisicing incididunt qui. Eiusmod eu consectetur fugiat voluptate quis consequat do. Deserunt nulla veniam eiusmod culpa. Mollit duis do cillum incididunt ullamco qui consectetur excepteur dolore sunt cillum officia id qui.",
     "registered": "Tuesday, May 23, 2017 2:09 AM",
-    "latitude": "-53.697959",
-    "longitude": "133.258439",
+    "latitude": -53.697959,
+    "longitude": 33.258439,
     "friends": [
       {
         "id": 0,
@@ -3615,8 +3615,8 @@ export class PeopleService {
     "address": "370 Furman Street, Sims, Virgin Islands, 3876",
     "about": "Culpa velit veniam occaecat ullamco ex do. Nulla excepteur duis cupidatat non quis esse. Ullamco ea dolore magna quis et. Ipsum Lorem sunt do id minim. Ullamco ea pariatur sunt ullamco eiusmod ut proident in quis cillum tempor do exercitation. Esse velit adipisicing officia esse deserunt. Adipisicing quis fugiat velit adipisicing id elit consectetur cupidatat pariatur.",
     "registered": "Wednesday, May 17, 2017 1:13 PM",
-    "latitude": "88.592044",
-    "longitude": "55.78493",
+    "latitude": 88.592044,
+    "longitude": 55.78493,
     "friends": [
       {
         "id": 0,
@@ -3652,8 +3652,8 @@ export class PeopleService {
     "address": "100 Engert Avenue, Edgewater, West Virginia, 4713",
     "about": "Velit eiusmod anim ad magna. Quis esse est id Lorem ullamco do voluptate. Non enim nulla consequat reprehenderit Lorem ad. Velit elit aliquip laboris aute veniam et enim duis consequat dolore. Fugiat duis labore consequat minim consequat culpa nisi amet.",
     "registered": "Friday, January 20, 2017 6:53 AM",
-    "latitude": "21.13942",
-    "longitude": "118.781401",
+    "latitude": 21.13942,
+    "longitude": 8.781401,
     "friends": [
       {
         "id": 0,
@@ -3689,8 +3689,8 @@ export class PeopleService {
     "address": "954 Bond Street, Harleigh, Kentucky, 5888",
     "about": "Nostrud magna voluptate duis ex incididunt exercitation ullamco ea consequat. Aliquip veniam ipsum sit pariatur. Consequat id duis amet ipsum consequat laborum voluptate elit enim aliqua exercitation elit ullamco. Ex dolore adipisicing excepteur id reprehenderit mollit tempor aliquip Lorem. Consectetur velit minim ut et commodo. Labore labore irure ad id deserunt pariatur laboris.",
     "registered": "Friday, May 19, 2017 3:17 AM",
-    "latitude": "-80.263956",
-    "longitude": "-129.936437",
+    "latitude": -80.263956,
+    "longitude": -19.936437,
     "friends": [
       {
         "id": 0,
@@ -3708,8 +3708,6 @@ export class PeopleService {
     "invoices": 8
   }
     ];
-
-
 
     return people;
   }

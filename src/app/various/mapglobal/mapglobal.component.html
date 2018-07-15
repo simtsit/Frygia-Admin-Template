@@ -1,6 +1,11 @@
 <div clas="row">
 	<div class="col-md-9">
-		<div id="map" style="map"></div>
+
+		<agm-map [latitude]="lat" [longitude]="lng">
+	  		<agm-marker *ngFor = "let person of peopleData" [latitude]="person.latitude" [longitude]="person.longitude"><script type="text/javascript"> console.log(person);</script></agm-marker>
+
+ 		</agm-map>
+
 	</div>
 	<div class="col-md-3">
 		<table class="table">
@@ -17,14 +22,3 @@
 		</table>
 	</div>
 </div>
-
-<script>
-	function myMap() {
-		var mapOptions = {
-		    center: new google.maps.LatLng(51.5, -0.12),
-		    zoom: 10,
-		    mapTypeId: google.maps.MapTypeId.HYBRID,
-		}
-		var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-		}  
-</script>

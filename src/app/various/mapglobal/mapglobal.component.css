@@ -1,6 +1,5 @@
-#map {
+agm-map {
 	width:auto;
-	height:400px;
-	min-height: 800px;
-	background:yellow;
+	height:800px;
+	/*min-height: 800px;*/
 }

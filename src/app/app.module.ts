@@ -2,6 +2,8 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { RouterModule} from '@angular/router';
+import { AgmCoreModule } from '@agm/core';
+
 
 // Main App Component
 import { AppComponent } from './app.component';
@@ -65,10 +67,13 @@ import { ArticleContentComponent } from './various/article-content/article-conte
     TypographyComponent,
     AboutComponent,
     ArticleComponent,
-    ArticleContentComponent
+    ArticleContentComponent,
   ],
   imports: [
     BrowserModule,
+    AgmCoreModule.forRoot({
+      apiKey: 'AIzaSyA_PUNPCWz4lfXJ3xbf6oFr4N_WgkDcW-0'
+    }),
     RouterModule.forRoot([
          {
             path: '',
