@@ -8,7 +8,8 @@ import { PeopleService } from './../../people.service';
   styleUrls: ['./data-table.component.css']
 })
 export class DataTableComponent implements OnInit {
-
+	peopleData;
+	
   constructor(private people: PeopleService) { }
 
   ngOnInit() {

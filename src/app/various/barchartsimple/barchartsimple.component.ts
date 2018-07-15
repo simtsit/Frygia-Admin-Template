@@ -9,7 +9,7 @@ import { PeopleService } from './../../people.service';
   styleUrls: ['./barchartsimple.component.css']
 })
 export class BarchartsimpleComponent implements OnInit {
-
+	peopleData;
 
   constructor(private people: PeopleService) {
   }

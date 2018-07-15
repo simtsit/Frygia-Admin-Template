@@ -9,6 +9,7 @@ import { PeopleService } from './../../people.service';
 })
 
 export class PiechartsimpleComponent implements OnInit {
+	peopleData;
 	
   constructor(private people: PeopleService) {
    }

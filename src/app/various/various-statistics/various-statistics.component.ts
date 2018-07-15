@@ -8,7 +8,8 @@ import { PeopleService } from './../../people.service';
   styleUrls: ['./various-statistics.component.css']
 })
 export class VariousStatisticsComponent implements OnInit {
-
+	peopleData;
+	
 	highestRevenueUser; // for storing the user with highest revenue
 	highestRevenue = 0;
 

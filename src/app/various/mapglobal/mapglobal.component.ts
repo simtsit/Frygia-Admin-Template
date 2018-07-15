@@ -8,6 +8,7 @@ import { PeopleService } from './../../people.service';
   styleUrls: ['./mapglobal.component.css']
 })
 export class MapglobalComponent implements OnInit {
+    peopleData;
 	  lat: number = 51.678418;
 	  lng: number = 7.809007;		
 

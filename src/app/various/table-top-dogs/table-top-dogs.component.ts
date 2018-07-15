@@ -8,13 +8,14 @@ import { PeopleService } from './../../people.service';
   styleUrls: ['./table-top-dogs.component.css']
 })
 export class TableTopDogsComponent implements OnInit {
+	peopleData;
+	topDogs;
 
   constructor(private people:PeopleService) { }
 
   ngOnInit() {
 	this.peopleData = this.people.getPeople();
 	
-	var topdogs;
 
 	function sortJSON(data, key, way) {
     	return data.sort(function(a, b) {
