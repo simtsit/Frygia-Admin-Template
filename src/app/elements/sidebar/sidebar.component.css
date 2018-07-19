@@ -8,6 +8,7 @@
     height: 60px;
 }
 
+
 .logo {
     padding: 4px 0px 12px 16px;
     text-decoration: none;
@@ -15,6 +16,14 @@
     color: #e4e4e4;
     line-height: 1.7em;
 }
+
+.logoMini {
+    padding: 0px 0px 12px 16px;
+    text-decoration: none;
+    font-size: 28px;
+    color: #e4e4e4;
+}
+
 
 .sidebarWrapper {
     z-index: 1;
@@ -99,17 +108,11 @@ ul.sidebarOptions {
     visibility: hidden;
 }
 
-.toggleOn {
-    visibility: visible;
-}
 
 .nav-item {
     width: 250px;
 }
 
-/*.fa-angle-right {
-    visibility: hidden;
-}*/
 
  /*Medium devices (tablets, 768px and up)*/
 @media (max-width: 768px) { 
