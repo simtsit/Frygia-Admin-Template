@@ -30,9 +30,12 @@
 }
 
 .sidebarWrapperToggled {
-    width: 100px;
+    width: 50px;
 }
 
+.containerToggled {
+    margin-left: 60px !important;
+}
 
 .sidebarWrapper ul li {
     border-bottom: 1px solid #b36834;
@@ -47,7 +50,7 @@ ul.sidebarOptions {
     padding-top: 20px;
 }
 
-.sidebarWrapper a {
+.sidebarOptions a {
     padding: 0px 0px 4px 14px;
     text-decoration: none;
     font-size: 18px;
@@ -75,22 +78,38 @@ ul.sidebarOptions {
 .toggleMenu {
     width: 100%;
     background-color: #9e480a;
-    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    color: #e4e4e4;
     height: 50px;
     text-align: center;
 }
-
 .toggleMenu a {
+    color: #e4e4e4;
+    text-decoration: none; 
+    line-height: 30px;
+    padding-top: 15px;
 }
 
 .menuItemLabel {
 /*    visibility: visible;
 */}
 
-.toggled {
+.toggleOff {
     visibility: hidden;
 }
 
+.toggleOn {
+    visibility: visible;
+}
+
+.nav-item {
+    width: 250px;
+}
+
+/*.fa-angle-right {
+    visibility: hidden;
+}*/
 
  /*Medium devices (tablets, 768px and up)*/
 @media (max-width: 768px) { 
