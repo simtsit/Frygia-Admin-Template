@@ -29,6 +29,11 @@
     transition: all 0.5s ease;
 }
 
+.sidebarWrapperToggled {
+    width: 100px;
+}
+
+
 .sidebarWrapper ul li {
     border-bottom: 1px solid #b36834;
 }
@@ -67,6 +72,24 @@ ul.sidebarOptions {
     padding-top: 12px;
 }
 
+.toggleMenu {
+    width: 100%;
+    background-color: #9e480a;
+    color: #ffffff;
+    height: 50px;
+    text-align: center;
+}
+
+.toggleMenu a {
+}
+
+.menuItemLabel {
+/*    visibility: visible;
+*/}
+
+.toggled {
+    visibility: hidden;
+}
 
 
  /*Medium devices (tablets, 768px and up)*/

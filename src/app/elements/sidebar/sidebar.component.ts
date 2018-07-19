@@ -7,6 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SidebarComponent implements OnInit {
 
+	toggle(event) {
+		$('.menuItemLabel').addClass('toggled');
+		$('.logo').addClass('toggled');
+		$('.sidebarWrapper').addClass('sidebarWrapperToggled');
+	}
+
   constructor() { }
 
   ngOnInit() {
