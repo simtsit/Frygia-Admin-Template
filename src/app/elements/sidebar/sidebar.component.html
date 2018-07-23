@@ -1,56 +1,88 @@
-<div class="mobileNav">
-	<div class="mobLogo">
-		Frygia
-	</div>
-	<i class="fa fa-fw fa-angle-left"></i>
-	<div class="mobNavIcon dropdown">
-		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-bars"></i></a>
-	    <ul class="dropdown-menu">
-			<li><a routerLink = "dashboard" href="#">Dashboard</a></li>
-			<li><a routerLink = "tables" href="#">Tables</a></li>
-			<li><a routerLink = "forms" href="#">Forms</a></li>
-			<li><a routerLink = "profile" href="#">Profile</a></li>
-			<li><a routerLink = "calendar" href="#">Calendar</a></li>
-			<li><a routerLink = "map" href="#">Map </a></li>
-			<li><a routerLink = "p404" href="#">404</a></li>
-			<li><a routerLink = "typography" href="#">Typography</a></li>
-			<li><a routerLink = "article" href="#">Article</a></li>
-			<li><a href="#">Charts</a></li>
-			<li><a href="#">UI Elements</a></li>
-			<li><a href="#">Multi Level Dropdown</a></li>
-			<li><a href="#">Sample Pages</a></li>
-			<li><a routerLink = "about" href="#">About</a></li>
-			<li><a routerLink = "login" href="#">Login</a></li>
-        </ul>
-	</div>
-</div>
-<div class="sidebarWrapper" id="sidebar">
-	<div class="logo">
-		Frygia
-	</div>
-	<div class="logoMini toggleOff">
-		F
-	</div>
-	<ul class="sidebarOptions">
-		<li class="nav-item"><a routerLink = "dashboard" href="#"><i class="fa fa-home"></i><span class="menuItemLabel">Dashboard</span></a></li>
-		<li class="nav-item"><a routerLink = "tables" href="#"><i class="fa fa-table"></i><span class="menuItemLabel">Tables</span></a></li>
-		<li class="nav-item"><a routerLink = "forms" href="#"><i class="fa fa-wpforms"></i><span class="menuItemLabel">Forms</span></a></li>
-		<li class="nav-item"><a routerLink = "profile" href="#"><i class="fa fa-user"></i><span class="menuItemLabel">Profile</span></a></li>
-		<li class="nav-item"><a routerLink = "calendar" href="#"><i class="fa fa-calendar"></i><span class="menuItemLabel">Calendar</span></a></li>
-		<li class="nav-item"><a routerLink = "map" href="#"><i class="fa fa-globe"></i><span class="menuItemLabel">Map</span></a></li>
-		<li class="nav-item"><a routerLink = "p404" href="#"><i class="fa fa-exclamation-triangle"></i><span class="menuItemLabel">404</span></a></li>
-		<li class="nav-item"><a routerLink = "typography" href="#"><i class="fa fa-font"></i><span class="menuItemLabel">Typography</span></a></li>
-		<li class="nav-item"><a routerLink = "article" href="#"><i class="fa fa-newspaper"></i><span class="menuItemLabel">Article</span></a></li>
-		<li class="nav-item"><a href="#"><i class="fa fa-chart"></i><span class="menuItemLabel">Charts</span></a></li>
-		<li class="nav-item"><a href="#"><span class="menuItemLabel">UI Elements</span></a></li>
-		<li class="nav-item"><a href="#"><span class="menuItemLabel">Multi Level Dropdown</span></a></li>
-		<li class="nav-item"><a href="#"><span class="menuItemLabel">Sample Pages</span></a></li>
-		<li class="nav-item"><a routerLink = "about" href="#"><span class="menuItemLabel">About</span></a></li>
-		<li class="nav-item"><a routerLink = "login" href="#"><span class="menuItemLabel">Login</span></a></li>
-	</ul>
-	<div class="toggleMenu">
-		<a href="#" id="sidenavToggler" (click) = "toggle()">
-			<i id="toggleButton" class="fa fa-fw fa-angle-left"></i>
-		</a>
-	</div>
+<div class="nav-side-menu">
+    <div class="brand">Frygia</div>
+    <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
+  
+        <div class="menu-list">
+  
+            <ul id="menu-content" class="menu-content collapse out">
+                <li class="nav-item">
+                  <a routerLink = "dashboard" href="#">
+                  <i class="fa fa-dashboard"></i><span class="menuItemLabel"> Dashboard
+                  </span></a>
+                </li>
+
+                <li class="nav-item">
+                  <a routerLink = "tables" href="#">
+                  	<i class="fa fa-table"></i><span class="menuItemLabel"> UI Elements</span></a>
+                </li>
+             
+                <li class="nav-item">
+                  <a routerLink = "forms" href="#">
+                  <i class="fa fa-wpforms"></i><span class="menuItemLabel"> Forms</span></a>
+                </li>  
+
+                <li class="nav-item">
+                  <a routerLink = "profile" href="#">
+                  <i class="fa fa-user"></i><span class="menuItemLabel"> Profile </span></a>
+                </li>
+
+                 <li class="nav-item">
+                  <a routerLink = "calendar" href="#">
+                  <i class="fa fa-calendar"></i><span class="menuItemLabel"> Calendar</span></a>
+                  </li>
+
+                 <li class="nav-item">
+                  <a routerLink = "map" href="#">
+                  <i class="fa fa-globe"></i><span class="menuItemLabel"> Map
+                  </span></a>
+                </li>
+                 <li class="nav-item">
+                  <a routerLink = "p404" href="#">
+                  <i class="fa fa-exclamation-triangle"></i><span class="menuItemLabel"> 404
+                  </span></a>
+                </li>
+
+
+                 <li class="nav-item">
+                 <a routerLink = "typography" href="#">
+                  <i class="fa fa-font"></i><span class="menuItemLabel"> Typography
+                  </span></a>
+                </li>
+                 <li class="nav-item">
+                  <a routerLink = "article" href="#">
+                  <i class="fa fa-car"></i><span class="menuItemLabel"> Article
+                  </span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="#">
+                  <i class="fa fa-gift"></i><span class="menuItemLabel"> Charts
+                  </span></a>
+                </li>
+                 <li class="nav-item">
+                  <a href="#">
+                  <i class="fa fa-users"></i><span class="menuItemLabel"> UI Elements
+                  </span></a>
+                </li>
+                 <li class="nav-item">
+                  <a href="#">
+                  <i class="fa fa-users"></i><span class="menuItemLabel"> Multi Level Dropdown
+                  </span></a>
+                </li>
+                 <li class="nav-item">
+                  <a href="#">
+                  <i class="fa fa-users"></i><span class="menuItemLabel"> About
+                  </span></a>
+                </li>
+                 <li class="nav-item">
+                  <a href="#">
+                  <i class="fa fa-users"></i><span class="menuItemLabel"> Login
+                  </span></a>
+                </li>
+            </ul>
+			  <div class="toggleMenu">
+			    <a href="#" id="sidenavToggler" (click) = "toggle()">
+			      <i id="toggleButton" class="fa fa-fw fa-angle-left"></i>
+			  </a>
+			  </div>            
+     </div>
 </div>
